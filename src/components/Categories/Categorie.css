@@ -26,7 +26,7 @@
 }
 
 .categories__img .imgL{
-  background-image: url("public/img/laptops.png");
+  background-image: url("src/assets/public/laptops.png");
   width: 160px;
   height: 220px;
   background-position: center; 
