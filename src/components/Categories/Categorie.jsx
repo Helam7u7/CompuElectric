@@ -11,7 +11,7 @@ const Categories = ({url}) => {
     </div>
     {/* <!-- cart categories --> */}
     <div className="categories__card">
-      <div className="card_img"><img src="src/assets/img/laptop1.png" alt=""/></div>
+      <div className="card_img"><img src="/src/assets/img/laptop1.png" alt=""/></div>
       <h3>LAPTOP MSI CYBORG 15 A12VF-043US</h3>
       <p>I7-12650H 8GB DDR5 512GB SSD...</p>
       <div className="info">
@@ -20,7 +20,7 @@ const Categories = ({url}) => {
       </div>
     </div>
     <div className="categories__card">
-      <div className="card_img"><img src="src/assets/img/laptop1.png" alt=""/></div>
+      <div className="card_img"><img src="/src/assets/img/laptop1.png" alt=""/></div>
       <h3>LAPTOP MSI CYBORG 15 A12VF-043US</h3>
       <p>I7-12650H 8GB DDR5 512GB SSD...</p>
       <div className="info">
