@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Categorie.css"
 
-const Categories = () => {
+const Categories = ({url}) => {
   return (
     <>
     <section class="categories">
@@ -11,7 +11,7 @@ const Categories = () => {
     </div>
     {/* <!-- cart categories --> */}
     <div class="categories__card">
-      <div class="card_img"><img src="/CompuElectri2/img/laptop1.png" alt=""/></div>
+      <div class="card_img"><img src="src/assets/img/laptop1.png" alt=""/></div>
       <h3>LAPTOP MSI CYBORG 15 A12VF-043US</h3>
       <p>I7-12650H 8GB DDR5 512GB SSD...</p>
       <div class="info">
@@ -20,7 +20,7 @@ const Categories = () => {
       </div>
     </div>
     <div class="categories__card">
-      <div class="card_img"><img src="/CompuElectri2/img/laptop1.png" alt=""/></div>
+      <div class="card_img"><img src="src/assets/img/laptop1.png" alt=""/></div>
       <h3>LAPTOP MSI CYBORG 15 A12VF-043US</h3>
       <p>I7-12650H 8GB DDR5 512GB SSD...</p>
       <div class="info">
@@ -29,7 +29,7 @@ const Categories = () => {
       </div>
     </div>
     <div class="categories__card">
-      <div class="card_img"><img src="/CompuElectri2/img/laptop1.png" alt=""/></div>
+      <div class="card_img"><img src="src/assets/img/laptop1.png" alt=""/></div>
       <h3>LAPTOP MSI CYBORG 15 A12VF-043US</h3>
       <p>I7-12650H 8GB DDR5 512GB SSD...</p>
       <div class="info">
@@ -38,7 +38,7 @@ const Categories = () => {
       </div>
     </div>
     <div class="categories__card">
-      <div class="card_img"><img src="/CompuElectri2/img/laptop1.png" alt=""/></div>
+      <div class="card_img"><img src="src/assets/img/laptop1.png" alt=""/></div>
       <h3>LAPTOP MSI CYBORG 15 A12VF-043US</h3>
       <p>I7-12650H 8GB DDR5 512GB SSD...</p>
       <div class="info">

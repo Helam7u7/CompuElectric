@@ -26,7 +26,7 @@
 }
 
 .categories__img .imgL{
-  background-image: url("/CompuElectri2/img/laptops.png");
+  background-image: url("src/assets/img/laptops.png");
   width: 160px;
   height: 220px;
   background-position: center; 
@@ -34,7 +34,7 @@
   filter: brightness(50%);
 }
 .categories__img .imgT{
-  background-image: url("/CompuElectri2/img/tecladoP.png");
+  background-image: url("src/assets/img/tecladoP.png");
   width: 160px;
   height: 220px;
   background-position: center; 
@@ -42,7 +42,7 @@
   filter: brightness(50%);
 }
 .categories__img .imgM{
-  background-image: url("/CompuElectri2/img/mouseP.png");
+  background-image: url("src/assets/img/mouseP.png");
   width: 160px;
   height: 220px;
   background-position: center; 
