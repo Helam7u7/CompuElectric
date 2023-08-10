@@ -5,7 +5,7 @@ const Galery = () => {
   return (
     <>
     <Navbar/>
-    <h1>F</h1>
+      
     </>
   )
 }
