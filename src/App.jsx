@@ -12,11 +12,11 @@ function App() {
   ]
   return (
     <>
-      {/* <Navbar/>
+      <Navbar/>
       <Categories url={listaUrl}/>
       <Categories url={listaUrl}/>
-      <Categories url={listaUrl}/> */}
-      <Galery/>
+      <Categories url={listaUrl}/>
+      {/* <Galery/> */}
     </>
   )
 }
