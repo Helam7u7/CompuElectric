@@ -4,19 +4,14 @@ import Navbar from './components/Navbar/Navbar'
 import Categories from './components/Categories/Categorie'
 import Galery from './pages/galeryImg/Galery'
 
+import DATA_IMGP from './data/imgP.json'
+
 function App() {
-  const listaUrl = [
-    'src/assets/img/laptops.png',
-    'src/assets/img/mouse.png',
-    'src/assets/img/teclado.png',
-  ]
   return (
     <>
       <Navbar/>
-      {/* <Categories url={listaUrl}/>
-      <Categories url={listaUrl}/>
-      <Categories url={listaUrl}/> */}
-      <Galery/>
+      <Categories urlPortadas={DATA_IMGP}/>
+      {/* <Galery/> */}
     </>
   )
 }

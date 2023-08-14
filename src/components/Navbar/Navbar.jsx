@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <>
       <nav className="navBar">
-        <div><img src="/img/logoCompuElectric.png" alt=""/></div>
+        <div><img src="/img/svg/logoCompuElectric.png" alt=""/></div>
         <ul className="navBar__list">
           <li>Laptops</li>
           <li>Teclados</li>
@@ -15,9 +15,9 @@ const Navbar = () => {
         </ul>
         <div className="navBar__search">
           <input type="text" placeholder="Buscar..."/>
-          <div className="search__img"><img src="/img/search.png" alt=""/></div>
+          <div className="search__img"><img src="public/img/svg/search.png" alt=""/></div>
         </div>
-        <div className="navBar__menu"><img src="/img/menu.png" alt=""/></div>
+        <div className="navBar__menu"><img src="public/img/svg/menu.png" alt=""/></div>
       </nav>
     {/* Banner */}
       <div className="banner">

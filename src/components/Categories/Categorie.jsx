@@ -1,17 +1,19 @@
 import React from 'react'
 import "./Categorie.css"
 
-const Categories = ({url}) => {
+const Categories = ({urlPortadas}) => {
   return (
     <>
+    {urlPortadas.map((portada)=>{
+      return(
     <section className="categories">
     <div className="categories__img">
-      <img className="imgL" alt=""/>
+      <img className="imgL" src={portada.url} alt={portada.name}/>
       <h2>Laptos</h2>
     </div>
     {/* <!-- cart categories --> */}
     <div className="categories__card">
-      <div className="card_img"><img src="/img/laptop1.png" alt=""/></div>
+      <div className="card_img"><img src="/img/products/laptop1.png" alt=""/></div>
       <h3>LAPTOP MSI CYBORG 15 A12VF-043US</h3>
       <p>I7-12650H 8GB DDR5 512GB SSD...</p>
       <div className="info">
@@ -20,7 +22,7 @@ const Categories = ({url}) => {
       </div>
     </div>
     <div className="categories__card">
-      <div className="card_img"><img src="/img/laptop1.png" alt=""/></div>
+      <div className="card_img"><img src="/img/products/laptop1.png" alt=""/></div>
       <h3>LAPTOP MSI CYBORG 15 A12VF-043US</h3>
       <p>I7-12650H 8GB DDR5 512GB SSD...</p>
       <div className="info">
@@ -29,7 +31,7 @@ const Categories = ({url}) => {
       </div>
     </div>
     <div className="categories__card">
-      <div className="card_img"><img src="/img/laptop1.png" alt=""/></div>
+      <div className="card_img"><img src="/img/products/laptop1.png" alt=""/></div>
       <h3>LAPTOP MSI CYBORG 15 A12VF-043US</h3>
       <p>I7-12650H 8GB DDR5 512GB SSD...</p>
       <div className="info">
@@ -38,7 +40,7 @@ const Categories = ({url}) => {
       </div>
     </div>
     <div className="categories__card">
-      <div className="card_img"><img src="/img/laptop1.png" alt=""/></div>
+      <div className="card_img"><img src="/img/products/laptop1.png" alt=""/></div>
       <h3>LAPTOP MSI CYBORG 15 A12VF-043US</h3>
       <p>I7-12650H 8GB DDR5 512GB SSD...</p>
       <div className="info">
@@ -48,7 +50,10 @@ const Categories = ({url}) => {
     </div>
     <a  className="moreInfo" href="#">VER MÁS</a>
 
-  </section>
+    </section>
+        
+      )
+    })}
     </>
   )
 }

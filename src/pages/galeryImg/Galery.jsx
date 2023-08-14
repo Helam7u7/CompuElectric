@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '../../components/Navbar/Navbar'
-import './Galery.css'
+// import './Galery.css'
 
 const Galery = () => {
   return (

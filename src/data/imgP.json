@@ -1,0 +1,14 @@
+[
+  {
+    "name":"laptop",
+    "url":"/img/portadas/laptops.png"
+  },
+  {
+    "name":"teclado",
+    "url":"public/img/portadas/tecladoP.png"
+  },
+  {
+    "name":"mouse",
+    "url":"public/img/portadas/mouseP.png"
+  }
+]
