@@ -1,17 +1,18 @@
 import React from 'react'
 import './Navbar.css'
+import { Link } from 'react-router-dom'
 
 const Navbar = () => {
   return (
     <>
       <nav className="navBar">
-        <div><img src="/img/svg/logoCompuElectric.png" alt=""/></div>
+        <div><Link to="/"><img src="/img/svg/logoCompuElectric.png" alt=""/></Link></div>
         <ul className="navBar__list">
-          <li>Laptops</li>
-          <li>Teclados</li>
-          <li>Mouses</li>
-          <li>Auriculares</li>
-          <li>Otros</li>
+          <li><Link to="catLaptop">Laptops</Link></li>
+          <li><Link to="catTeclado">Teclados</Link></li>
+          <li><Link to='catMouses'>Mouses</Link></li>
+          <li><Link to='catAuriculares'>Auriculares</Link></li>
+          <li><Link to='catOtros'>Otros</Link></li>
         </ul>
         <div className="navBar__search">
           <input type="text" placeholder="Buscar..."/>

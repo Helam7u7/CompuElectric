@@ -1,14 +1,44 @@
 [
   {
     "name":"laptop",
-    "url":"/img/portadas/laptops.png"
+    "url":"/img/portadas/laptops.png",
+    "productos":[
+      {
+        "id":0,
+        "modelo":"LAPTOP MSI CYBORG 15 A12VF-043US",
+        "desc":"I7-12650H 8GB DDR5 512GB SSD...",
+        "precioOf":"S/1,200",
+        "precioOr":"S/2,100",
+        "img":"/img/products/laptop1.png"
+      }
+    ]
   },
   {
     "name":"teclado",
-    "url":"public/img/portadas/tecladoP.png"
+    "url":"public/img/portadas/tecladoP.png",
+    "productos":[
+      {
+        "id":0,
+        "modelo":"Redragon Kumara K552 QWERTY Outemu Red",
+        "desc":"español latinoamérica color negro con luz RGB",
+        "precioOf":"S/191",
+        "precioOr":"S/245",
+        "img":"/img/products/teclado.png"
+      }
+    ]
   },
   {
     "name":"mouse",
-    "url":"public/img/portadas/mouseP.png"
+    "url":"public/img/portadas/mouseP.png",
+    "productos":[
+      {
+        "id":0,
+        "modelo":"Logitech G Series Hero G502 kda",
+        "desc":"Mouse gamer de juego",
+        "precioOf":"S/230",
+        "precioOr":"S/300",
+        "img":"/img/products/mouse.png"
+      }
+    ]
   }
 ]

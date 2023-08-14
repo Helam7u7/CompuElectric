@@ -1,18 +1,25 @@
 import viteLogo from '/vite.svg'
 // import './App.css'
-import Navbar from './components/Navbar/Navbar'
-import Categories from './components/Categories/Categorie'
+
+//Routes
+import { Routes,Route } from 'react-router-dom'
+
+//Component
+import Home from './pages/home/Home'
+import Layout from './components/Layout/Layout'
 import Galery from './pages/galeryImg/Galery'
 
-import DATA_IMGP from './data/imgP.json'
+
 
 function App() {
   return (
-    <>
-      <Navbar/>
-      <Categories urlPortadas={DATA_IMGP}/>
-      {/* <Galery/> */}
-    </>
+    <Routes>
+      <Route path='/' element={<Layout/>}>
+        <Route index element={<Home/>}/>
+        <Route path='catTeclado' element={<Galery/>}/>
+        
+      </Route>
+    </Routes>
   )
 }
 
