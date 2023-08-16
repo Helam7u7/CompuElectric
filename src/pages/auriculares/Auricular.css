@@ -1,0 +1,43 @@
+.contenedor_categoria {
+  display: flex;
+  margin-top: 4rem ;
+}
+
+.categoria_filter {
+  width: 200px;
+  margin-left: 2rem;
+}
+
+.categoria_results {
+  display: flex;
+  gap: 3rem;
+}
+
+.results_card {
+  height: 345px;
+  width: 235px;
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+}
+
+.results_card h3{
+  color: #78A962;
+  
+}
+
+.results_card .categoria_img{
+  display: flex;
+  justify-content: center;
+}
+.results_card .categoria_img img {
+  width: 150px;
+  margin: .5rem;
+  cursor: pointer;
+}
+
+.card_precio {
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+}
