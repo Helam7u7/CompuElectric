@@ -1,10 +1,58 @@
-  /* NavBarr */
+/* Title */
+.container_marca {
+  color: #fff;
+  background-color: #222;
+  display: flex;
+  justify-content: space-between;
+  padding: .7rem 1.3rem;
+}
+
+.container_marca .marca_btn {
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+}
+
+.marca_btn h2 {
+  font-size: 1.2rem;
+}
+
+.marca_btn img {
+  width: 1.2rem;
+
+}
+
+.marca_btn .btn_img {
+  width: max-content;
+}
+
+.marca_name h2,h1{
+  font-size: 1.7rem;
+  margin-bottom: .5rem;
+  text-align: center;
+}
+
+
+/* Icon Phone */
+.marca_phone {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+}
+
+.marca_phone img {
+  width: 1.7rem;
+}
+
+
+/* NavBarr */
 .navBar {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0 2rem;
-  margin-top: 1rem;
+  padding: 1rem 2rem;
+  position: relative;
+  background-color: #222;
 }
 
 .navBar .navBar__list {
@@ -15,11 +63,15 @@
 }
 
 .navBar__list li .a-link {
+  font-size: 1.2rem;
+  font-weight: 100;
   text-decoration: none;
-  color: #000;
+  color: #fff;
+  position: relative;
+  z-index: 51;
 }
 .navBar__list li .a-link:hover {
-  color: #616161;
+  color: #9f6e6e;
 }
 
 .navBar img,li {
@@ -28,18 +80,25 @@
 
 .navBar .navBar__search {
   display: flex;
-  background-color: #D0CCCC;
+  background-color: #5F6468;
   border-radius: 4rem;
   padding: .3rem;
-  border: 2px solid #D0CCCC;
+  border: 2px solid #5F6468;
   padding: 0.3rem 1rem;
 }
 
 .navBar .navBar__search input{
-  background-color: #D0CCCC;
+  background-color: #5F6468;
   outline: none;
   border: none;
   font-weight: 600;
+  color: #fff;
+  
+}
+.navBar .navBar__search input::placeholder{
+  color: #cecece;
+  font-family: monospace;
+  
 }
 
 .navBar__search .search__img img{
@@ -50,17 +109,78 @@
   width: 30px;
 }
 
+.navBar_logo img {
+  position: absolute;
+  left: 50%;
+}
+
+.banner_logo img {
+  max-width: 150px;
+  position: absolute;
+  left: 43%;
+  bottom: 61%;
+}
+
 /* Banner */
 .banner {
-  margin-top: 1rem;
-  height: 185px;
-  background-image: url("/img/svg/banner.png");
+  height: 200px;
+  background-image: url("/img/svg/banner2.jpg");
   overflow: hidden; 
   background-repeat: no-repeat; 
   background-size: cover;
-  background-position: center top 50%; 
+  background-position: center top 60%; 
 }
 
 .banner img {
   width: 100vw;
+}
+
+.navBar_logo img{
+  width: 50px;
+}
+
+.dropDown {
+  border: 1px solid black;
+  height: 200px;
+  width: 200px;
+  background-color: #222;
+  position: absolute;
+  z-index: 100;
+  right:1%;
+  top: 70%;
+  border-radius: .6rem;
+  padding: .7rem;
+}
+
+.dropDown ul{
+  list-style: none;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.dropDown li {
+  transition: .5s background-color;
+}
+
+.dropDown li:hover {
+  background-color: #555454;
+}
+
+/* Animacion */
+.navAnimation {
+  position: absolute;
+  left: 110px;
+  /* z-index: 50; */
+}
+
+.navAnimation ul {
+  display: flex;
+  list-style: none;
+  gap: 3rem;
+}
+
+.navAnimation ul li img{
+  width: 80px;
 }

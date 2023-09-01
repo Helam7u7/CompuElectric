@@ -1,0 +1,38 @@
+.contenedor_menu  {
+  border: 2px solid #222;
+  width: 200px;
+  height: 400px;
+  position: absolute;
+}
+
+.name {
+  display: flex;
+  background-color: #fff;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  list-style: none;
+  text-decoration: none;
+}
+
+.split {
+  nav-down: root;
+
+}
+
+:root {
+  --max-width: 1920px;
+  --height: 750px;
+  --bg-color: #222;
+}
+
+.lin {
+  width: var(max-width);
+  height: var(height);
+  background-color: var(--bg-color);
+  display: flex;
+  gap: 3rem;
+  justify-content: center;
+  align-items: center;
+
+}

@@ -1,9 +1,9 @@
 import { useState } from 'react';
-import './Product.css'
+import './Product2.css'
 
 const Product = () => {
 
-  const [mainImage, setMainImage] = useState('/img/audifonos/audifono1.webp');
+  const [mainImage, setMainImage] = useState('/img/teclados/modelo2/keyboardM1-1.jpg');
 
   const changeImage = (newImage) => {
     setMainImage(newImage);
@@ -12,10 +12,10 @@ const Product = () => {
     <>
       <div className='contenedor_carrusel'>
         <div className='carrusel_list'>
-          <div className='list_img' onClick={() => changeImage('/img/audifonos/audifono1.webp')}><img src="/img/audifonos/audifono1.webp" alt="" /></div>
-          <div className='list_img' onClick={() => changeImage('/img/audifonos/audifono2.webp')}><img src="/img/audifonos/audifono2.webp" alt="" /></div>
-          <div className='list_img' onClick={() => changeImage('/img/audifonos/Audifono3.webp')}><img src="/img/audifonos/Audifono3.webp" alt="" /></div>
-          <div className='list_img' onClick={() => changeImage('/img/audifonos/audifono4.webp')}><img src="/img/audifonos/audifono4.webp" alt="" /></div>
+          <div className='list_img' onClick={() => changeImage('/img/teclados/modelo2/keyboardM1-1.jpg')}><img src="/img/teclados/modelo2/keyboardM1-1.jpg" alt="" /></div>
+          <div className='list_img' onClick={() => changeImage('/img/teclados/modelo2/keyboardM1-2.jpg')}><img src="/img/teclados/modelo2/keyboardM1-2.jpg" alt="" /></div>
+          <div className='list_img' onClick={() => changeImage('/img/teclados/modelo2/keyboardM1-3.jpg')}><img src="/img/teclados/modelo2/keyboardM1-3.jpg" alt="" /></div>
+          <div className='list_img' onClick={() => changeImage('/img/teclados/modelo2/keyboardM1-4.jpg')}><img src="/img/teclados/modelo2/keyboardM1-4.jpg" alt="" /></div>
         </div>
         <div className='carrusel_img'><img src={mainImage} alt="" /></div>
         <div className='carrusel_info'>

@@ -1,0 +1,16 @@
+.contenedor_footer {
+  background-color: #222;
+  display: flex;
+  justify-content: center;
+  padding: 1.5rem 2rem;
+  gap: 	1rem;
+  align-items: center;
+  
+}
+
+.footer_icon.grupo1 img {
+  width: 80px;
+}
+.footer_icon.grupo2 img {
+  width: 55px;
+}

@@ -1,6 +1,6 @@
 import React from 'react'
-import'./Auricular.css'
-import { Link , Outlet} from 'react-router-dom'
+import'./Mouse.css'
+import { Link } from 'react-router-dom'
 
 const Auricular = () => {
   return (
@@ -13,7 +13,7 @@ const Auricular = () => {
           {/* cardProduct */}
           <div className='results_card'>
             <h3><img src="/img/svg/disponible.svg" alt="" /> disponible</h3>
-            <div className='categoria_img'><Link to='/catAuriculares/auricular1'><img src="/img/audifonos/audifono1.webp" alt="" /></Link> </div>
+            <div className='categoria_img'><Link to='/Mouse/MouseOne'><img src="/img/mouses/modelo1/mouse1-1.webp" alt="" /></Link> </div>
             <h2>MICRONICS PLATINUM DJ BLK/BLU MIC H701</h2>
             <p>AURICULAR+MICROFONO MICRONICS 40 unid x caja - garantía 3 meses Colores: Negro/ Azul y Negro/Rojo </p>
             <div className='card_precio'>
@@ -24,7 +24,7 @@ const Auricular = () => {
           {/* cardProduct */}
           <div className='results_card'>
             <h3><img src="/img/svg/disponible.svg" alt="" /> disponible</h3>
-            <div className='categoria_img'><Link to='/catAuriculares/auricular2'><img src="/img/audifonos/audifono_1.jpg" alt="" /></Link> </div>
+            <div className='categoria_img'><Link to='/Product2'><img src="/img/mouses/modelo2/mouse2-1.webp" alt="" /></Link> </div>
             <h2>MICRONICS PLATINUM DJ BLK/BLU MIC H701</h2>
             <p>AURICULAR+MICROFONO MICRONICS 40 unid x caja - garantía 3 meses Colores: Negro/ Azul y Negro/Rojo </p>
             <div className='card_precio'>
@@ -35,7 +35,7 @@ const Auricular = () => {
           {/* cardProduct */}
           <div className='results_card'>
             <h3><img src="/img/svg/disponible.svg" alt="" /> disponible</h3>
-            <div className='categoria_img'><Link to='/catAuriculares/auricular3'><img src="/img/audifonos/audifono-1.jpg" alt="" /></Link> </div>
+            <div className='categoria_img'><Link to='/Product3'><img src="/img/mouses/modelo3/mouse3-1.webp" alt="" /></Link> </div>
             <h2>MICRONICS PLATINUM DJ BLK/BLU MIC H701</h2>
             <p>AURICULAR+MICROFONO MICRONICS 40 unid x caja - garantía 3 meses Colores: Negro/ Azul y Negro/Rojo </p>
             <div className='card_precio'>
@@ -45,7 +45,6 @@ const Auricular = () => {
           </div>
         </div>
       </div>
-      <Outlet/>
     </>
   )
 }

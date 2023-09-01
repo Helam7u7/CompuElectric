@@ -1,7 +1,7 @@
 import { useState } from 'react';
-import './Product2.css'
+import './Auricular2.css'
 
-const Product = () => {
+const Auricular2 = () => {
 
   const [mainImage, setMainImage] = useState('/img/audifonos/audifono_1.jpg');
 
@@ -36,4 +36,4 @@ const Product = () => {
   )
 }
 
-export default Product
+export default Auricular2
