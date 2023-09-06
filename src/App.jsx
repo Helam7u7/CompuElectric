@@ -7,11 +7,10 @@ import { Routes,Route } from 'react-router-dom'
 //Component
 import Layout from './components/Layout/Layout'
 import Home from './pages/home/Home'
-import Auricular from './pages/auriculares/Auricular'
-import Auricular1 from './pages/auriculares/Auricular1/Auricular1'
-import Auricular2 from './pages/auriculares/Auricular2/Auricular2'
-import Auricular3 from './pages/auriculares/Auricular3/Auricular3'
+import ProductList from './pages/ProductList/ProductList'
+import DATA_PRODUCTS from './data/products.json'
 import ViewProduct from './components/Product/Product'
+import Product from './components/Product/Product'
 
 
 function NotFound() {
@@ -22,11 +21,9 @@ function App() {
   return (
     <Routes>
       <Route path='/' element={<Layout/>}>
-        <Route index element={<ViewProduct/>}/>
-        <Route path='catAuriculares' element={<Auricular/>}>
-          <Route path='auricular1' element={<Auricular1/>}/>
-          <Route path='auricular2' element={<Auricular2/>}/>
-          <Route path='auricular3' element={<Auricular3/>}/>
+        <Route index element={<Home/>}/>
+        <Route path='/categoria/:categoria' element={<ProductList data_products={DATA_PRODUCTS}/>}>
+          <Route path='/categoria/:categoria/:id' element={<Product/>}/>
           <Route path="*" element={<NotFound />} />
         </Route>
       </Route>

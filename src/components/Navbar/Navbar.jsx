@@ -3,7 +3,7 @@ import './Navbar.css'
 import { Link } from 'react-router-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
-const Navbar = () => {
+const Navbar = ({data_products}) => {
 
   const [dropDownOpen, setdropDownOpen] = useState(false);
 
@@ -72,11 +72,26 @@ const Navbar = () => {
       <nav className="navBar">
         <div className="navBar__menu" onClick={toggleDropDown}><img src="/img/svg/menu2.png" alt=""/></div>
         <ul className="navBar__list">
-          <li><Link className='a-link' to="catLaptop">Laptops</Link></li>
-          <li><Link className='a-link' to="catTeclado">Teclados</Link></li>
-          <li><Link className='a-link' to='catMouses'>Mouses</Link></li>
-          <li><Link className='a-link' to='catAuriculares'>Auriculares</Link></li>
-          <li><Link className='a-link' to='catOtros'>Otros</Link></li>
+          <li>
+            <Link className='a-link' to={`/categoria/${data_products[0].categoria}`}>
+              {data_products[0].categoria}
+            </Link>
+          </li>
+          <li>
+            <Link className='a-link' to={`/categoria/${data_products[1].categoria}`}>
+              {data_products[1].categoria}
+            </Link>
+          </li>
+          <li>
+            <Link className='a-link' to={`/categoria/${data_products[2].categoria}`}>
+              {data_products[2].categoria}
+            </Link>
+          </li>
+          <li>
+            <Link className='a-link' to={`/categoria/${data_products[3].categoria}`}>
+              {data_products[3].categoria}
+            </Link>
+          </li>
         </ul>
         <div className="navBar__search">
           <input type="text" placeholder="Buscar..."/>

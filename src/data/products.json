@@ -1,0 +1,158 @@
+[
+  { 
+    "id":1,
+    "categoria":"Laptops",
+    "img":"/img/products/laptop1.png",
+    "product":[
+      {
+        "id":1,
+        "marca":"HP",
+        "modelo":"HP 12FHD2200",
+        "precio":2500,
+        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
+        "img":""
+      },
+      {
+        "id":2,
+        "marca":"HP",
+        "modelo":"HP 12FHD2200",
+        "precio":2500,
+        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
+        "img":""
+      },
+      {
+        "id":3,
+        "marca":"HP",
+        "modelo":"HP 12FHD2200",
+        "precio":2500,
+        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
+        "img":""
+      },
+      {
+        "id":4,
+        "marca":"HP",
+        "modelo":"HP 12FHD2200",
+        "precio":2500,
+        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
+        "img":""
+      }
+    ]
+  },
+  { 
+    "id":2,
+    "categoria":"Teclados",
+    "img":"/img/products/laptop1.png",
+    "product":[
+      {
+        "id":1,
+        "marca":"Redgragon",
+        "modelo":"HP 12FHD2200",
+        "precio":2500,
+        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
+        "img":""
+      },
+      {
+        "id":2,
+        "marca":"HP",
+        "modelo":"HP 12FHD2200",
+        "precio":2500,
+        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
+        "img":""
+      },
+      {
+        "id":3,
+        "marca":"HP",
+        "modelo":"HP 12FHD2200",
+        "precio":2500,
+        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
+        "img":""
+      },
+      {
+        "id":4,
+        "marca":"HP",
+        "modelo":"HP 12FHD2200",
+        "precio":2500,
+        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
+        "img":""
+      }
+    ]
+  },
+  { 
+    "id":3,
+    "categoria":"Mouses",
+    "img":"/img/products/laptop1.png",
+    "product":[
+      {
+        "id":1,
+        "marca":"Logitech",
+        "modelo":"HP 12FHD2200",
+        "precio":2500,
+        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
+        "img":""
+      },
+      {
+        "id":2,
+        "marca":"HP",
+        "modelo":"HP 12FHD2200",
+        "precio":2500,
+        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
+        "img":""
+      },
+      {
+        "id":3,
+        "marca":"HP",
+        "modelo":"HP 12FHD2200",
+        "precio":2500,
+        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
+        "img":""
+      },
+      {
+        "id":4,
+        "marca":"HP",
+        "modelo":"HP 12FHD2200",
+        "precio":2500,
+        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
+        "img":""
+      }
+    ]
+  },
+  { 
+    "id":4,
+    "categoria":"Auriculares",
+    "img":"/img/products/laptop1.png",
+    "product":[
+      {
+        "id":1,
+        "marca":"HyperX",
+        "modelo":"HP 12FHD2200",
+        "precio":2500,
+        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
+        "img":""
+      },
+      {
+        "id":2,
+        "marca":"HP",
+        "modelo":"HP 12FHD2200",
+        "precio":2500,
+        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
+        "img":""
+      },
+      {
+        "id":3,
+        "marca":"HP",
+        "modelo":"HP 12FHD2200",
+        "precio":2500,
+        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
+        "img":""
+      },
+      {
+        "id":4,
+        "marca":"HP",
+        "modelo":"HP 12FHD2200",
+        "precio":2500,
+        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
+        "img":""
+      }
+    ]
+  }
+]
