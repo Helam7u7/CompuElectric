@@ -45,35 +45,35 @@
     "product":[
       {
         "id":1,
-        "marca":"Redgragon",
-        "modelo":"HP 12FHD2200",
+        "marca":"HyperX",
+        "modelo":"HyperX Alloy Core RGB MERCO",
         "precio":2500,
         "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":""
+        "img":"/img/teclados/HyperXAlloyCoreRGBMerco.png"
       },
       {
         "id":2,
-        "marca":"HP",
-        "modelo":"HP 12FHD2200",
+        "marca":"HyperX",
+        "modelo":"HyperX Alloy Origins 60 HX Aqua",
         "precio":2500,
         "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":""
+        "img":"/img/teclados/HyperXAlloyOrigins60HXAqua.png"
       },
       {
         "id":3,
-        "marca":"HP",
-        "modelo":"HP 12FHD2200",
+        "marca":"HyperX",
+        "modelo":"HyperX Alloy Origins 60 HX Red",
         "precio":2500,
         "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":""
+        "img":"/img/teclados/HyperXAlloyOrigins60HxRed.png"
       },
       {
         "id":4,
-        "marca":"HP",
-        "modelo":"HP 12FHD2200",
+        "marca":"HyperX",
+        "modelo":"HyperX Keyboard Alloy Origins 65 HX Aqua",
         "precio":2500,
         "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":""
+        "img":"/img/teclados/HyperXKeyboardAlloyOrigins65HXAqua.png"
       }
     ]
   },
@@ -84,35 +84,51 @@
     "product":[
       {
         "id":1,
-        "marca":"Logitech",
-        "modelo":"HP 12FHD2200",
+        "marca":"HyperX",
+        "modelo":"Hyper Pulsefire Haste Global Gaming",
         "precio":2500,
         "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":""
+        "img":"/img/mouses/HyperPulsefireHasteGlobalGaming.png"
       },
       {
         "id":2,
-        "marca":"HP",
-        "modelo":"HP 12FHD2200",
+        "marca":"HyperX",
+        "modelo":"HyperX Pulsefire CORERGB Gaming",
         "precio":2500,
         "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":""
+        "img":"/img/mouses/HyperXPulsefireCORERGBGaming.png"
       },
       {
         "id":3,
-        "marca":"HP",
-        "modelo":"HP 12FHD2200",
+        "marca":"HyperX",
+        "modelo":"HyperX Pulsefire FPS Pro",
         "precio":2500,
         "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":""
+        "img":"/img/mouses/HyperXPulsefireFPSPro.png"
       },
       {
         "id":4,
-        "marca":"HP",
-        "modelo":"HP 12FHD2200",
+        "marca":"HyperX",
+        "modelo":"HyperX Pulsefire Haste Global Gaming",
         "precio":2500,
         "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":""
+        "img":"/img/mouses/HyperXPulsefireHasteGlobalGaming.png"
+      },
+      {
+        "id":5,
+        "marca":"HyperX",
+        "modelo":"HyperX Pulsefire Raid Black",
+        "precio":2500,
+        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
+        "img":"/img/mouses/HyperXPulsefireRaidBlack.png"
+      },
+      {
+        "id":6,
+        "marca":"HyperX",
+        "modelo":"HyperX Pulsefire Surge RGB Black",
+        "precio":2500,
+        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
+        "img":"/img/mouses/HyperXPulsefireSurgeRGBBlack.png"
       }
     ]
   },

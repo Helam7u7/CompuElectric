@@ -47,10 +47,12 @@ const Navbar = ({data_products}) => {
   return (
     <>
       <div className='container_marca'>
-        <span className='marca_btn'>
-          <h2 className='btn_name'>HOME</h2>
-          <div className='btn_img'><img src="/img/svg/home.png" alt="" /></div>
-        </span>
+        <Link to='/'>
+          <span className='marca_btn'>
+            <h2 className='btn_name'>HOME</h2>
+            <div className='btn_img'><img src="/img/svg/home.png" alt="" /></div>
+          </span>
+        </Link>
         <span className='marca_name'>
           <h1 className='name_title'>Compu Electric</h1>
           <h2 className='name_subTitle'>POR TODO PERÚ</h2>

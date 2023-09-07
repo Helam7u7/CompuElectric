@@ -1,7 +1,10 @@
 import React from 'react'
+import { useParams } from 'react-router-dom'
 import './Product.css'
 
-const Product = () => {
+const Product = ({data_products}) => {
+  const {categoria,id} = useParams()
+  const filteredProducts = data_products.find((category) => category.categoria === categoria && category.id === id);
   return (
     <div className='container_infoProduct'>
       <div className='infoProduct_detalle'>
