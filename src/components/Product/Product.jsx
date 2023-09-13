@@ -4,7 +4,16 @@ import './Product.css'
 
 const Product = ({data_products}) => {
   const {categoria,id} = useParams()
-  const filteredProducts = data_products.find((category) => category.categoria === categoria && category.id === id);
+  const filteredProducts = data_products.find((categoria) => {
+    categoria.categoria === 'Mouses' 
+    console.log(categoria.categoria);
+  });
+  // console.log(filteredProducts);
+
+  // console.log(filteredProducts);
+
+  console.log(categoria);
+  console.log(id);
   return (
     <div className='container_infoProduct'>
       <div className='infoProduct_detalle'>
