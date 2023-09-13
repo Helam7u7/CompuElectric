@@ -141,12 +141,12 @@
 
 .dropDown {
   border: 1px solid black;
-  height: 200px;
+  height: max-content;
   width: 200px;
   background-color: #222;
   position: absolute;
   z-index: 100;
-  right:1%;
+  left:1%;
   top: 70%;
   border-radius: .6rem;
   padding: .7rem;

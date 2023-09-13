@@ -104,11 +104,9 @@ const Navbar = ({data_products}) => {
         {dropDownOpen &&(
           <div className='dropDown'>
           <ul>
-            <li>Parlantes</li>
-            <li>Teclados</li>
-            <li>Mouse</li>
-            <li>Monitores</li>
-            <li>Switchs</li>
+            {data_products.map(producto => (
+              <li><Link to={`/categoria/${producto.categoria}`}>{producto.categoria}</Link></li>
+            ))}
           </ul>
         </div>
         )}

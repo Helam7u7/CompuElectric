@@ -19,7 +19,6 @@ const ProductList = ({data_products}) => {
         filteredProducts.product.map((product) => (
           
           <div className='results_card' key={product.id}>
-          <div className='results_card'>
             <h3><img src="/img/svg/disponible.svg" alt="" /> disponible</h3>
             <div className='categoria_img'>
               <Link to={`/categoria/${filteredProducts.categoria}/${product.id}`}><img src={product.img} alt="" />
@@ -31,7 +30,6 @@ const ProductList = ({data_products}) => {
               <span>S/37</span>
               <span>{product.precio}</span>
             </div>
-          </div>
             
           </div>
         ))}

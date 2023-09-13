@@ -1,6 +1,7 @@
 .contenedor_categoria {
   display: flex;
-  margin-top: 4rem ;
+  flex-direction: column; /* Cambia la dirección a column para que los elementos estén en vertical */
+  margin-top: 4rem;
 }
 
 .categoria_filter {
@@ -9,35 +10,40 @@
 }
 
 .categoria_results {
-  display: flex;
+  margin: 0 3rem;
+  display: grid; /* Usa CSS Grid para controlar la disposición de los productos */
+  grid-template-columns: repeat(auto-fill, minmax(235px, 1fr)); /* Configura las columnas automáticamente y establece el ancho mínimo de cada columna a 235px */
   gap: 3rem;
 }
 
 .results_card {
   height: 345px;
-  width: 235px;
+  width: 100%; /* Cambia el ancho a 100% para que se ajuste automáticamente al ancho de la columna */
   display: flex;
   flex-direction: column;
-  gap: .5rem;
+  gap: 0.5rem;
+  border-radius: 0.5rem;
+  outline: 2px solid #a82d2d;
+  padding: 1rem;
 }
 
-.results_card h3{
+.results_card h3 {
   color: #78A962;
-  
 }
 
-.results_card .categoria_img{
+.results_card .categoria_img {
   display: flex;
   justify-content: center;
 }
+
 .results_card .categoria_img img {
   width: 150px;
-  margin: .5rem;
+  margin: 0.5rem;
   cursor: pointer;
 }
 
 .card_precio {
   display: flex;
   flex-direction: column;
-  gap: .5rem;
+  gap: 0.5rem;
 }

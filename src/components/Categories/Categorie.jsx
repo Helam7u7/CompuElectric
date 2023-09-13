@@ -1,7 +1,9 @@
 import React from 'react'
 import "./Categorie.css"
+import { Link } from 'react-router-dom'
 
-const Categories = ({urlPortadas}) => {
+const Categories = ({urlPortadas,data_products}) => {
+  console.log(data_products);
   return (
     <>
     {urlPortadas.map((portada)=>{
@@ -13,7 +15,7 @@ const Categories = ({urlPortadas}) => {
     </div>
     {/* <!-- cart categories --> */}
     <div className="categories__card">
-      <div className="card_img"><img src={portada.productos[0].img} alt=""/></div>
+      <div className="card_img"><Link to={`/categoria/${data_products[0].categoria}`}><img src={portada.productos[0].img} alt=""/></Link></div>
       <h3>{portada.productos[0].modelo}</h3>
       <p>{portada.productos[0].desc}</p>
       <div className="info">
@@ -22,7 +24,7 @@ const Categories = ({urlPortadas}) => {
       </div>
     </div>
     <div className="categories__card">
-      <div className="card_img"><img src={portada.productos[0].img} alt=""/></div>
+    <div className="card_img"><Link to={`/categoria/${data_products[1].categoria}`}><img src={portada.productos[0].img} alt=""/></Link></div>
       <h3>{portada.productos[0].modelo}</h3>
       <p>{portada.productos[0].desc}</p>
       <div className="info">
