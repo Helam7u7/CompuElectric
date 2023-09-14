@@ -21,7 +21,7 @@ const ProductList = ({data_products}) => {
           <div className='results_card' key={product.id}>
             <h3><img src="/img/svg/disponible.svg" alt="" /> disponible</h3>
             <div className='categoria_img'>
-              <Link to={`/categoria/${filteredProducts.categoria}/${product.id}`}><img src={product.img} alt="" />
+              <Link to={`/categoria/${filteredProducts.categoria}/${product.id}`}><img src={product.imgMain} alt="" />
               </Link>
             </div>
             <h2>{product.modelo}</h2>

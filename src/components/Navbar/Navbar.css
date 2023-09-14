@@ -184,3 +184,13 @@
 .navAnimation ul li img{
   width: 80px;
 }
+
+.h2-home {
+  text-decoration: none;
+  color: #fff;
+}
+
+.dropDown-link {
+  color: #fff;
+  text-decoration: none;
+}

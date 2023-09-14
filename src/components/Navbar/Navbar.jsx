@@ -47,7 +47,7 @@ const Navbar = ({data_products}) => {
   return (
     <>
       <div className='container_marca'>
-        <Link to='/'>
+        <Link to='/' className='h2-home'>
           <span className='marca_btn'>
             <h2 className='btn_name'>HOME</h2>
             <div className='btn_img'><img src="/img/svg/home.png" alt="" /></div>
@@ -60,7 +60,7 @@ const Navbar = ({data_products}) => {
         <span className='marca_phone'>
           <img src="/img/svg/icons8-facebook-48.png" alt="" />
           <img src="/img/svg/phone.png" alt="" />
-          <h3>987-774-872</h3>
+          <h3>949 945 838</h3>
         </span>
       </div>
 
@@ -105,7 +105,7 @@ const Navbar = ({data_products}) => {
           <div className='dropDown'>
           <ul>
             {data_products.map(producto => (
-              <li><Link to={`/categoria/${producto.categoria}`}>{producto.categoria}</Link></li>
+              <li><Link className='dropDown-link' to={`/categoria/${producto.categoria}`}>{producto.categoria}</Link></li>
             ))}
           </ul>
         </div>

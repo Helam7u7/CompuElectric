@@ -1,7 +1,7 @@
 [
   { 
     "id":1,
-    "categoria":"Laptops",
+    "categoria":"Parlantes",
     "img":"/img/products/laptop1.png",
     "product":[
       {
@@ -45,35 +45,552 @@
     "product":[
       {
         "id":1,
-        "marca":"HyperX",
-        "modelo":"HyperX Alloy Core RGB MERCO",
+        "marca":"Micronics",
+        "modelo":"NEON+ MIC K709+",
         "precio":2500,
-        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":"/img/teclados/HyperXAlloyCoreRGBMerco.png"
+        "descripcion":"NEON MIC K709 TECLADO MULTIMEDIA USB LED",
+        "caracteristica":[
+          "Teclado Gamer Look Rainbow.",
+          "Función Multimedia FN (F1 - F12).",
+          "Teclas LED Flotantes.",
+          "19 Teclas Anti- Ghosting: Evita que al Pulsar mas de una Tecla al mismo Tiempo Genere Colisión de Comandos.",
+          "12 Teclas con Funciones Adicionales Multimedia e Internet. Habilitadas con Teclas FN +(F1 al F12).",
+          "Iluminación LED Rainbow.",
+          "Interface(Conexión USB).",
+          "Distribución de Teclas: Español / España.",
+          "Idioma: Español/Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros. "
+          
+        ],
+        "imgMain":"/img/productos/teclados/NEON+ MIC K709+ TECLADO MULTIMEDIA USB LED MICRONICS/NEON+ MIC K709+ TECLADO MULTIMEDIA USB LED MICRONICS.jpg",
+        "imgs":[
+          "/img/productos/teclados/NEON+ MIC K709+ TECLADO MULTIMEDIA USB LED MICRONICS/NEON+ MIC K709+ TECLADO MULTIMEDIA USB LED MICRONICS.jpg",
+          "/img/productos/teclados/NEON+ MIC K709+ TECLADO MULTIMEDIA USB LED MICRONICS/img1.jpg",
+          "/img/productos/teclados/NEON+ MIC K709+ TECLADO MULTIMEDIA USB LED MICRONICS/img2.jpg",
+          "/img/productos/teclados/NEON+ MIC K709+ TECLADO MULTIMEDIA USB LED MICRONICS/img3.jpg"
+        ]
       },
       {
         "id":2,
-        "marca":"HyperX",
-        "modelo":"HyperX Alloy Origins 60 HX Aqua",
+        "marca":"Micronics",
+        "modelo":"NEON+ MIC K709+",
         "precio":2500,
-        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":"/img/teclados/HyperXAlloyOrigins60HXAqua.png"
+        "descripcion":"NEON MIC K709 TECLADO MULTIMEDIA USB LED",
+        "caracteristica":[
+          "Teclado Gamer Look Rainbow.",
+          "Función Multimedia FN (F1 - F12).",
+          "Teclas LED Flotantes.",
+          "19 Teclas Anti- Ghosting: Evita que al Pulsar mas de una Tecla al mismo Tiempo Genere Colisión de Comandos.",
+          "12 Teclas con Funciones Adicionales Multimedia e Internet. Habilitadas con Teclas FN +(F1 al F12).",
+          "Iluminación LED Rainbow.",
+          "Interface(Conexión USB).",
+          "Distribución de Teclas: Español / España.",
+          "Idioma: Español/Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros. "
+          
+        ],
+        "imgMain":"/img/productos/teclados/NEON_MIC _K709W_TECLADO MULTIMEDIA_USB_LED_MICRONICS/main.jfif",
+        "imgs":[
+          "/img/productos/teclados/NEON_MIC _K709W_TECLADO MULTIMEDIA_USB_LED_MICRONICS/main.jfif",
+          "/img/productos/teclados/NEON_MIC _K709W_TECLADO MULTIMEDIA_USB_LED_MICRONICS/img1.jpg",
+          "/img/productos/teclados/NEON_MIC _K709W_TECLADO MULTIMEDIA_USB_LED_MICRONICS/img2.jpg",
+          "/img/productos/teclados/NEON_MIC _K709W_TECLADO MULTIMEDIA_USB_LED_MICRONICS/img3.jpg"
+        ]
       },
       {
         "id":3,
-        "marca":"HyperX",
-        "modelo":"HyperX Alloy Origins 60 HX Red",
-        "precio":2500,
-        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":"/img/teclados/HyperXAlloyOrigins60HxRed.png"
+        "marca":"CYBERTEL",
+        "modelo":"XTREME CYB K505",
+        "precio":0,
+        "descripcion":"TECLADO MULTIMEDIA USB LED",
+        "caracteristica":[
+          "Teclado Gamer Look.",
+          "Función Multimedia FN(F1-F12).",
+          "Sistema Láser Traslúcido: Resistente al Borrado por Desgaste.",
+          "Teclas Semi Curvas.",
+          "12 Teclas con Funciones Adicionales Multimedia e Internet.",
+          "Iluminación LED Rainbow.",
+          "Distribución de Teclas: Español / España.",
+          "Compatible con Sistemas Windows, Linux y Otros. ."
+        ],
+        "imgMain":"/img/productos/teclados/XTREME_CYB_K5_5_TECLADO_MULTIMEDIA_USB_LED_CYBERTEL/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/XTREME_CYB_K5_5_TECLADO_MULTIMEDIA_USB_LED_CYBERTEL/main.jpg",
+          "/img/productos/teclados/XTREME_CYB_K5_5_TECLADO_MULTIMEDIA_USB_LED_CYBERTEL/img1.jpg",
+          "/img/productos/teclados/XTREME_CYB_K5_5_TECLADO_MULTIMEDIA_USB_LED_CYBERTEL/img3.jpg"
+        ]
       },
       {
         "id":4,
-        "marca":"HyperX",
-        "modelo":"HyperX Keyboard Alloy Origins 65 HX Aqua",
-        "precio":2500,
-        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":"/img/teclados/HyperXKeyboardAlloyOrigins65HXAqua.png"
+        "marca":"CYBERTEL",
+        "modelo":"XTREME CYB K505W",
+        "precio":0,
+        "descripcion":"TECLADO MULTIMEDIA USB LED",
+        "caracteristica":[
+          "Teclado Gamer Look.",
+          "Función Multimedia FN(F1-F12).",
+          "Sistema Láser Traslúcido: Resistente al Borrado por Desgaste.",
+          "Teclas Semi Curvas.",
+          "12 Teclas con Funciones Adicionales Multimedia e Internet.",
+          "Iluminación LED Rainbow.",
+          "Distribución de Teclas: Español / España.",
+          "Compatible con Sistemas Windows, Linux y Otros. ."
+        ],
+        "imgMain":"/img/productos/teclados/XTREME_CYB_K5_5W_TECLADO_MULTIMEDIA_USB_LED_CYBERTEL/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/XTREME_CYB_K5_5W_TECLADO_MULTIMEDIA_USB_LED_CYBERTEL/main.jpg",
+          "/img/productos/teclados/XTREME_CYB_K5_5_TECLADO_MULTIMEDIA_USB_LED_CYBERTEL/img1.jpg",
+          "/img/productos/teclados/XTREME_CYB_K5_5_TECLADO_MULTIMEDIA_USB_LED_CYBERTEL/img3.jpg"
+        ]
+      },
+      {
+        "id":5,
+        "marca":"Cybertel",
+        "modelo":"ELEKTRON - CBX K208",
+        "precio":0,
+        "descripcion":"RAINBOW TECLADO GAMER USB",
+        "caracteristica":[
+          "Función Multimedia FN(F1 - F12).",
+          "Sistema Waterproof: Permite la Salida de Líquidos.",
+          "Teclas Semi Curvas.",
+          "12 Teclas con Funciones Adicionales Multimedia Accionadas Mediante la Tecla FN.",
+          "Iluminación LED Rainbow.",
+          "Interface (Conexión USB).",
+          "Botón de Encendido y Apagado de Luces.",
+          "Distribución de Teclas: Español / España.",
+          "Idioma: Español/Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros. "
+        ],
+        "imgMain":"/img/productos/teclados/ELEKTRON_CBX_K208_RAINBOW_TECLADO_GAMER_USB_CYBERTEL/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/ELEKTRON_CBX_K208_RAINBOW_TECLADO_GAMER_USB_CYBERTEL/main.jpg",
+          "/img/productos/teclados/ELEKTRON_CBX_K208_RAINBOW_TECLADO_GAMER_USB_CYBERTEL/img1.jpg",
+          "/img/productos/teclados/ELEKTRON_CBX_K208_RAINBOW_TECLADO_GAMER_USB_CYBERTEL/img2.jpg",
+          "/img/productos/teclados/ELEKTRON_CBX_K208_RAINBOW_TECLADO_GAMER_USB_CYBERTEL/img3.jpg"
+        ]
+      },
+      {
+        "id":6,
+        "marca":"Cybertel",
+        "modelo":"TWISTER - CYB K209+",
+        "precio":0,
+        "descripcion":"TECLADO MULTIMEDIA USB LED T/SEMICURVAS",
+        "caracteristica":[
+          "Teclado Gamer Look.",
+          "Función Multimedia FN(F1-F12).",
+          "Sistema Láser Carved: Resistente al Borrado por Desgaste.",
+          "12 Teclas con Funciones Adicionales Multimedia e Internet.",
+          "Iluminación LED Rainbow.",
+          "Interface (Conexión USB).",
+          "Distribución de Teclas: Español / España.",
+          "Idioma: Español/Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros. "
+        ],
+        "imgMain":"/img/productos/teclados/TWISTER_CYB_K209+_TECLADO_MULTIMEDIA_USB_LED_TSEMICURVAS_CYBERTEL/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/TWISTER_CYB_K209+_TECLADO_MULTIMEDIA_USB_LED_TSEMICURVAS_CYBERTEL/main.jpg",
+          "/img/productos/teclados/TWISTER_CYB_K209+_TECLADO_MULTIMEDIA_USB_LED_TSEMICURVAS_CYBERTEL/img1.jpg",
+          "/img/productos/teclados/TWISTER_CYB_K209+_TECLADO_MULTIMEDIA_USB_LED_TSEMICURVAS_CYBERTEL/img2.jpg",
+          "/img/productos/teclados/TWISTER_CYB_K209+_TECLADO_MULTIMEDIA_USB_LED_TSEMICURVAS_CYBERTEL/img3.jpg"
+        ]
+      },
+      {
+        "id":7,
+        "marca":"Cybertel",
+        "modelo":"ELEKTRON - CBX K221",
+        "precio":0,
+        "descripcion":"RAINBOW TECLADO GAMER DE UNA MANO USB",
+        "caracteristica":[
+          "Teclado Gamer One Hand.",
+          "Función Estándar.",
+          "Teclas Semi Curvas: Para una Escritura sin Esfuerzo/Teclas LED Flotantes.",
+          "Iluminación LED Rainbow.",
+          "Interface (Conexión USB).",
+          "Botón de Encendido y Apagado de Luces LED",
+          "Diseño Compacto.",
+          "Compatible con Sistemas Windows, Linux y Otros."
+        ],
+        "imgMain":"/img/productos/teclados/ELEKTRON_CBX_K221_RAINBOW_TECLADO_GAMER_DE_UNA_MANO_USB_CYBERTEL/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/ELEKTRON_CBX_K221_RAINBOW_TECLADO_GAMER_DE_UNA_MANO_USB_CYBERTEL/main.jpg",
+          "/img/productos/teclados/ELEKTRON_CBX_K221_RAINBOW_TECLADO_GAMER_DE_UNA_MANO_USB_CYBERTEL/img1.jpg",
+          "/img/productos/teclados/ELEKTRON_CBX_K221_RAINBOW_TECLADO_GAMER_DE_UNA_MANO_USB_CYBERTEL/img2.jpg",
+          "/img/productos/teclados/ELEKTRON_CBX_K221_RAINBOW_TECLADO_GAMER_DE_UNA_MANO_USB_CYBERTEL/img3.jpg"
+        ]
+      },
+      {
+        "id":8,
+        "marca":"Enkore",
+        "modelo":"BRAVIO ENK605",
+        "precio":0,
+        "descripcion":"TECLADO GAMER USB RAINBOW ENKORE",
+        "caracteristica":[
+          "Teclado Gamer Rainbow.",
+          "Función Multimedia Estándar.",
+          "Sistema Barniz UV Antiborrado: Resistente al Borrado por Desgaste.",
+          "Teclas Semi Curvas: Para una Escritura sin Esfuerzo.",
+          "12 Teclas con Funciones Multimedia Activada con la Tecla FN.",
+          "Iluminación LED Rainbow: Ideal para Ambientes Oscuros.",
+          "Interface (Conexión USB).",
+          "Botón de Encendido y Apagado de Luces LED",
+          "Distribución de Teclas: Español / España.",
+          "Idioma: Español /Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros."
+        ],
+        "imgMain":"/img/productos/teclados/BRAVIO_ENK605_TECLADO_GAMER_USB_RAINBOW_ENKORE/main.webp",
+        "imgs":[
+          "/img/productos/teclados/BRAVIO_ENK605_TECLADO_GAMER_USB_RAINBOW_ENKORE/main.webp",
+          "/img/productos/teclados/BRAVIO_ENK605_TECLADO_GAMER_USB_RAINBOW_ENKORE/img1.webp",
+          "/img/productos/teclados/BRAVIO_ENK605_TECLADO_GAMER_USB_RAINBOW_ENKORE/img2.webp",
+          "/img/productos/teclados/BRAVIO_ENK605_TECLADO_GAMER_USB_RAINBOW_ENKORE/img3.webp"
+        ]
+      },
+      {
+        "id":9,
+        "marca":"Enkore",
+        "modelo":"BRAIN ENK603",
+        "precio":0,
+        "descripcion":"TECLADO GAMER USB RAINBOW",
+        "caracteristica":[
+          "Teclado Gamer Rainbow.",
+          "Función Multimedia Estándar.",
+          "Sistema Láser Carved: Resistente al Borrado por Desgaste.",
+          "Teclas Semi Curvas: Para una Escritura sin Esfuerzo.",
+          "12 Teclas con Funciones Multimedia (F1 - F12) Accionados Mediante Tecla FN.",
+          "Iluminación LED Rainbow 3 Colores en Teclas.",
+          "2 Modos de Iluminación.",
+          "Iterface (Conexión USB).",
+          "Botón de Encendido y Apagado de Luces LED",
+          "Covertor Antideslizante.",
+          "Distribución de Teclas: Español / España.",
+          "Idioma: Español /Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros. "
+        ],
+        "imgMain":"/img/productos/teclados/BRAIN_ENK603_TECLADO_GAMER_USB_RAINBOW_ENKORE/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/BRAIN_ENK603_TECLADO_GAMER_USB_RAINBOW_ENKORE/main.jpg",
+          "/img/productos/teclados/BRAIN_ENK603_TECLADO_GAMER_USB_RAINBOW_ENKORE/img2.jpg",
+          "/img/productos/teclados/BRAIN_ENK603_TECLADO_GAMER_USB_RAINBOW_ENKORE/img3.jpg",
+          "/img/productos/teclados/BRAIN_ENK603_TECLADO_GAMER_USB_RAINBOW_ENKORE/img4.jpg"
+        ]
+      },
+      {
+        "id":10,
+        "marca":"Enkore",
+        "modelo":"SILICON ENK601",
+        "precio":0,
+        "descripcion":"TECLADO GAMER USB LED",
+        "caracteristica":[
+          "Teclado Gamer Look.",
+          "Función Multimedia Estándar.",
+          "Sistema Barniz UV Antiborrado: Resistente al Borrado por Desgaste.",
+          "Sistema Waterproof: Permite la Salida de Líquidos.",
+          "Teclas Semi Curvas: Para una Escritura sin Esfuerzo.",
+          "12Teclas con Funciones Adicionales Multimedia e Internet: Tecla FN + F1 + F12.",
+          "Interface (Conexión USB).",
+          "Distribución de Teclas: Español / España.",
+          "Idioma: Español/Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros."
+        ],
+        "imgMain":"/img/productos/teclados/SILICON_ENK601_TECLADO_GAMER_USB_LED_ENKORE/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/SILICON_ENK601_TECLADO_GAMER_USB_LED_ENKORE/main.jpg",
+          "/img/productos/teclados/SILICON_ENK601_TECLADO_GAMER_USB_LED_ENKORE/img1.jpg",
+          "/img/productos/teclados/SILICON_ENK601_TECLADO_GAMER_USB_LED_ENKORE/img2.jpg",
+          "/img/productos/teclados/SILICON_ENK601_TECLADO_GAMER_USB_LED_ENKORE/img3.jpg"
+        ]
+      },
+      {
+        "id":11,
+        "marca":"Enkore",
+        "modelo":"BRAIN ENK603W",
+        "precio":0,
+        "descripcion":"TECLADO GAMER USB RAINBOW",
+        "caracteristica":[
+          "Teclado Gamer Rainbow.",
+          "Función Multimedia Estándar.",
+          "Sistema Láser Carved: Resistente al Borrado por Desgaste.",
+          "Teclas Semi Curvas: Para una Escritura sin Esfuerzo.",
+          "12 Teclas con Funciones Multimedia (F1 - F12) Accionados Mediante Tecla FN.",
+          "Iluminación LED Rainbow 3 Colores en Teclas.",
+          "2 Modos de Iluminación.",
+          "Iterface (Conexión USB).",
+          "Botón de Encendido y Apagado de Luces LED",
+          "Covertor Antideslizante.",
+          "Distribución de Teclas: Español / España.",
+          "Idioma: Español /Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros."
+        ],
+        "imgMain":"/img/productos/teclados/BRAIN_ENK603W_TECLADO_GAMER_USB_RAINBOW_ENKORE/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/BRAIN_ENK603W_TECLADO_GAMER_USB_RAINBOW_ENKORE/main.jpg",
+          "/img/productos/teclados/BRAIN_ENK603W_TECLADO_GAMER_USB_RAINBOW_ENKORE/img1.jpg",
+          "/img/productos/teclados/BRAIN_ENK603W_TECLADO_GAMER_USB_RAINBOW_ENKORE/img2.jpg",
+          "/img/productos/teclados/BRAIN_ENK603W_TECLADO_GAMER_USB_RAINBOW_ENKORE/img3.jpg"
+        ]
+      },
+      {
+        "id":12,
+        "marca":"Micronics",
+        "modelo":"INFINITY MIC K721",
+        "precio":0,
+        "descripcion":"TECLADO GAMER USB RAINBOW",
+        "caracteristica":[
+          "Teclado Gamer Machine Rainbow Slim.",
+          "Función Multimedia FN (F1 - F12).",
+          "Sistema Barniz UV Antiborrado: Resistente al Borrado por Desgaste. ",
+          "Teclas Semi Curvas.",
+          "Teclas con Control de Encendido y Apagado de Luces.",
+          "Iluminación LED Rainbow: Ideal para Jugar en Ambientes Oscuros.",
+          "Interface (Conexión USB).",
+          "Covertor Antideslizante.",
+          "Distribución de Teclas: Español / España.",
+          "Idioma: Español / Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros. "
+        ],
+        "imgMain":"/img/productos/teclados/INFINITY_MIC_K721_TECLADO_GAMER_USB_RAINBOW_MICRONICS/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/INFINITY_MIC_K721_TECLADO_GAMER_USB_RAINBOW_MICRONICS/main.jpg",
+          "/img/productos/teclados/INFINITY_MIC_K721_TECLADO_GAMER_USB_RAINBOW_MICRONICS/img1.jpg",
+          "/img/productos/teclados/INFINITY_MIC_K721_TECLADO_GAMER_USB_RAINBOW_MICRONICS/img2.jpg",
+          "/img/productos/teclados/INFINITY_MIC_K721_TECLADO_GAMER_USB_RAINBOW_MICRONICS/img3.jpg"
+        ]
+      },
+      {
+        "id":13,
+        "marca":"Micronics",
+        "modelo":"AVANTY MIC K710",
+        "precio":0,
+        "descripcion":"TECLADO GAMER RAINBOW",
+        "caracteristica":[
+          "Teclado Gamer Machine Rainbow",
+          "Función Multimedia FN (F1-F12).",
+          "Teclas Semi Curvas.",
+          "Teclas con Control de Encendido y Apagado de Luces.",
+          "Teclas con Funciones Adicionales Multimedia mediante la Tecla FN.",
+          "Teclas Anti- Ghosting: Evita que al Pulsar más de una Tecla al mismo Tiempo Genere Colisión de Comandos.",
+          "Iluminación LED Rainbow: Ideal para Jugar en Ambientes Oscuros.",
+          "Interface(Conexión USB).",
+          "Perillas y Botones con Atajos Rápidos para el Control de Reproducción de Medios.",
+          "Presentación en Color Negro.",
+          "Distribución de Teclas: Español / España",
+          "Idioma: Español/Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros. "
+        ],
+        "imgMain":"/img/productos/teclados/AVANTY_MIC_K710_TECLADO_GAMER_RAINBOW_MICRONICS/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/AVANTY_MIC_K710_TECLADO_GAMER_RAINBOW_MICRONICS/main.jpg",
+          "/img/productos/teclados/AVANTY_MIC_K710_TECLADO_GAMER_RAINBOW_MICRONICS/img1.jpg",
+          "/img/productos/teclados/AVANTY_MIC_K710_TECLADO_GAMER_RAINBOW_MICRONICS/img2.jpg",
+          "/img/productos/teclados/AVANTY_MIC_K710_TECLADO_GAMER_RAINBOW_MICRONICS/img3.jpg"
+        ]
+      },
+      {
+        "id":14,
+        "marca":"Micronics",
+        "modelo":"AVANTY MIC K710W",
+        "precio":0,
+        "descripcion":"TECLADO GAMER RAINBOW",
+        "caracteristica":[
+          "Teclado Gamer Machine Rainbow",
+          "Función Multimedia FN (F1-F12).",
+          "Teclas Semi Curvas.",
+          "Teclas con Control de Encendido y Apagado de Luces.",
+          "Teclas con Funciones Adicionales Multimedia mediante la Tecla FN.",
+          "Teclas Anti- Ghosting: Evita que al Pulsar más de una Tecla al mismo Tiempo Genere Colisión de Comandos.",
+          "Iluminación LED Rainbow: Ideal para Jugar en Ambientes Oscuros.",
+          "Interface(Conexión USB).",
+          "Perillas y Botones con Atajos Rápidos para el Control de Reproducción de Medios.",
+          "Presentación en Color Negro.",
+          "Distribución de Teclas: Español / España",
+          "Idioma: Español/Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros. "
+        ],
+        "imgMain":"/img/productos/teclados/AVANTY_WHITE_MIC_K710W_TECLADO_GAMER_RAINBOW_MICRONICS/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/AVANTY_WHITE_MIC_K710W_TECLADO_GAMER_RAINBOW_MICRONICS/main.jpg",
+          "/img/productos/teclados/AVANTY_WHITE_MIC_K710W_TECLADO_GAMER_RAINBOW_MICRONICS/img1.jpg",
+          "/img/productos/teclados/AVANTY_WHITE_MIC_K710W_TECLADO_GAMER_RAINBOW_MICRONICS/img2.jpg",
+          "/img/productos/teclados/AVANTY_WHITE_MIC_K710W_TECLADO_GAMER_RAINBOW_MICRONICS/img3.jpg"
+        ]
+      },
+      {
+        "id":15,
+        "marca":"Micronics",
+        "modelo":"FISHER MIC K705",
+        "precio":0,
+        "descripcion":"87 KEYS TECLADO GAMER RAINBOW USB",
+        "caracteristica":[
+          "Teclado Gamer Machine Rainbow Slim.",
+          "Función Multimedia FN (F1-F12).",
+          "Teclas Semi Curvas.",
+          "Teclas con Funciones Adicionales Multimedia mediante la Tecla FN.",
+          "Teclas con Control de Encendido y Apagado de Luces.",
+          "Iluminación LED Rainbow: Ideal para Jugar en Ambientes Oscuros.",
+          "Borde de Teclado Iluminado.  ",
+          "Interface (Conexión USB).",
+          "Covertor Antideslizante.",
+          "Distribución de Teclas: Español / España.",
+          "Idioma: Español/Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros."
+        ],
+        "imgMain":"/img/productos/teclados/FISHER_MIC_K705_87_KEYS_TECLADO_GAMER_RAINBOW_USB_MICRONICS/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/FISHER_MIC_K705_87_KEYS_TECLADO_GAMER_RAINBOW_USB_MICRONICS/main.jpg",
+          "/img/productos/teclados/FISHER_MIC_K705_87_KEYS_TECLADO_GAMER_RAINBOW_USB_MICRONICS/img1.jpg",
+          "/img/productos/teclados/FISHER_MIC_K705_87_KEYS_TECLADO_GAMER_RAINBOW_USB_MICRONICS/img2.jpg",
+          "/img/productos/teclados/FISHER_MIC_K705_87_KEYS_TECLADO_GAMER_RAINBOW_USB_MICRONICS/img3.jpg"
+        ]
+      },
+      {
+        "id":16,
+        "marca":"Micronics",
+        "modelo":"FRANTIC MIC K713",
+        "precio":0,
+        "descripcion":"TECLADO GAMER USB LED",
+        "caracteristica":[
+          "Teclado Gamer Machine LED.",
+          "Función Multimedia FN( F1 - F12).",
+          "Sistema Láser Carved: Resistente al Borrado por Desgaste.",
+          "Sistema Waterproof: Permite la Salida de Líquidos.",
+          "Teclas Semi Curvas.",
+          "19 Teclas Anti- Ghosting: Evita que al Pulsar más de una Tecla al mismo Tiempo Genere Colisión de Comandos.",
+          "10 Teclas con Funciones Adicionales Multimedia e Internet.",
+          "8 Teclas Transparentes: WASD y Direccionales.",
+          "Iluminación LED Multicolores.",
+          "Interface (Conexión USB).",
+          "Covertor Antideslizante.",
+          "Distribución de Teclas: Español / España",
+          "Idioma: Español/Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros. "
+        ],
+        "imgMain":"/img/productos/teclados/FRANTIC_MIC_K713_TECLADO_GAMER_USB_LED_MICRONICS/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/FRANTIC_MIC_K713_TECLADO_GAMER_USB_LED_MICRONICS/main.jpg",
+          "/img/productos/teclados/FRANTIC_MIC_K713_TECLADO_GAMER_USB_LED_MICRONICS/img1.jpg",
+          "/img/productos/teclados/FRANTIC_MIC_K713_TECLADO_GAMER_USB_LED_MICRONICS/img2.jpg",
+          "/img/productos/teclados/FRANTIC_MIC_K713_TECLADO_GAMER_USB_LED_MICRONICS/img3.jpg"
+        ]
+      },
+      {
+        "id":17,
+        "marca":"Micronics",
+        "modelo":"AVANTY MIC K711",
+        "precio":0,
+        "descripcion":"TECLADO GAMER RGB",
+        "caracteristica":[
+          "Teclado Gamer Machine RGB.",
+          "Función Multimedia FN(F1-F12).",
+          "Teclas Semi Curvas.",
+          "Teclas con Funciones Adicionales Multimedia mediante la Tecla FN.",
+          "Iluminación LED RGB: Ideal para Jugar en Ambientes Oscuros.",
+          "Interface (Conexión USB).",
+          "Perillas y Botones con Atajos Rápidos para el Control de Reproducción de Medios.",
+          "Covertor Antideslizante.",
+          "Distribución de Teclas: Español/ España.",
+          "Idioma: Español/Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros. "
+        ],
+        "imgMain":"/img/productos/teclados/AVANTY_MIC_K711_TECLADO_GAMER_RGB_MICRONICS/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/AVANTY_MIC_K711_TECLADO_GAMER_RGB_MICRONICS/main.jpg",
+          "/img/productos/teclados/AVANTY_MIC_K711_TECLADO_GAMER_RGB_MICRONICS/img1.jpg",
+          "/img/productos/teclados/AVANTY_MIC_K711_TECLADO_GAMER_RGB_MICRONICS/img2.jpg",
+          "/img/productos/teclados/AVANTY_MIC_K711_TECLADO_GAMER_RGB_MICRONICS/img3.jpg"
+        ]
+      },
+      {
+        "id":18,
+        "marca":"Micronics",
+        "modelo":"EXABYTE MIC K818",
+        "precio":0,
+        "descripcion":"TECLADO GAMER USB RGB",
+        "caracteristica":[
+          "Teclado Gamer Machine RGB",
+          "Función Multimedia FN(F1-F12).",
+          "Sistema Láser Carved: Resistente al Borrado por Desgaste.",
+          "Teclas Semi Curvas.",
+          "Teclas Anti- Ghosting: Evita que al Pulsar más de una Tecla al mismo Tiempo Genere Colisión de Comandos.",
+          "Teclas con Control de Encendido y Apagado de Luces.",
+          "Teclas con Funciones Adicionales Multimedia e Internet.",
+          "Iluminación LED RGB en fondo y Teclas Permite un Uso Cómodo en Ambientes Oscuros.",
+          "Control de Modos de Iluminación con Tecla FN (FN + Tecla 1, 2 ... 9, 0 y FN +Bloq Despl).",
+          "Filtro de Anti electromagnetismo.",
+          "Interface (Conexión USB).",
+          "Distribución de Teclas: Español / España.",
+          "Compatible con Sistemas Windows, Linux y Otros. "
+        ],
+        "imgMain":"/img/productos/teclados/EXABYTE_MIC_K818_TECLADO_GAMER_USB_RGB_MICRONICS/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/EXABYTE_MIC_K818_TECLADO_GAMER_USB_RGB_MICRONICS/main.jpg",
+          "/img/productos/teclados/EXABYTE_MIC_K818_TECLADO_GAMER_USB_RGB_MICRONICS/img1.jpg",
+          "/img/productos/teclados/EXABYTE_MIC_K818_TECLADO_GAMER_USB_RGB_MICRONICS/img2.jpg",
+          "/img/productos/teclados/EXABYTE_MIC_K818_TECLADO_GAMER_USB_RGB_MICRONICS/img3.jpg"
+        ]
+      },
+      {
+        "id":19,
+        "marca":"Micronics",
+        "modelo":"FISHER MIC K801",
+        "precio":0,
+        "descripcion":"TECLADO GAMER USB RGB",
+        "caracteristica":[
+          "Teclado Multimedia Gamer RGB.",
+          "Iluminación LED RGB: Ideal para Jugar en Ambientes Oscuros.",
+          "Teclas Flotantes: Permiten una Escritura más Confortable.",
+          "Borde de Teclado Iluminado.",
+          "Control de Encendido y Apagado de Luces.",
+          "Teclas con Funciones Multimedia Accionadas mediante la Tecla FN.",
+          "Base Antideslizante.",
+          "Cable de Nylon Trenzado.",
+          "Conexión USB.",
+          "Compatible con Sistemas Operativos: Windows y Otros."
+        ],
+        "imgMain":"/img/productos/teclados/FISHER_MIC_K801_TECLADO_GAMER_USB_RGB_MICRONICS/main.webp",
+        "imgs":[
+          "/img/productos/teclados/FISHER_MIC_K801_TECLADO_GAMER_USB_RGB_MICRONICS/main.webp",
+          "/img/productos/teclados/FISHER_MIC_K801_TECLADO_GAMER_USB_RGB_MICRONICS/img1.webp",
+          "/img/productos/teclados/FISHER_MIC_K801_TECLADO_GAMER_USB_RGB_MICRONICS/img2.webp",
+          "/img/productos/teclados/FISHER_MIC_K801_TECLADO_GAMER_USB_RGB_MICRONICS/img3.webp"
+        ]
+      },
+      {
+        "id":20,
+        "marca":"Enkore",
+        "modelo":"KINGDOM ENK1001",
+        "precio":0,
+        "descripcion":"RAINBOW TECLADO GAMER MECANICO USB",
+        "caracteristica":[
+          "Teclado Gamer Mecánico Rainbow.",
+          "Función Multimedia Estándar.",
+          "Sistema de Doble Inyección: Resistente al Borrado por Desgaste.",
+          "Sistema Waterproof: Permite la Salida de Líquidos.",
+          "Teclas Semi Curvas: Para una Escritura sin Esfuerzo.",
+          "12 Teclas con Funciones Multimedia (F1 - F12) Accionados Mediante Tecla FN.",
+          "Iluminación LED Rainbow.",
+          "9 Modos de Iluminación.",
+          "Interface (Conexión USB).",
+          "Distribución de Teclas: Español / España.",
+          "Idioma: Español/Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros. "
+        ],
+        "imgMain":"/img/productos/teclados/KINGDOM_ENK1001_RAINBOW_TECLADO_GAMER_MECANICO_USB_ENKORE/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/KINGDOM_ENK1001_RAINBOW_TECLADO_GAMER_MECANICO_USB_ENKORE/main.jpg",
+          "/img/productos/teclados/KINGDOM_ENK1001_RAINBOW_TECLADO_GAMER_MECANICO_USB_ENKORE/img1.jpg",
+          "/img/productos/teclados/KINGDOM_ENK1001_RAINBOW_TECLADO_GAMER_MECANICO_USB_ENKORE/img2.jpg",
+          "/img/productos/teclados/KINGDOM_ENK1001_RAINBOW_TECLADO_GAMER_MECANICO_USB_ENKORE/img3.jpg"
+        ]
+      },
+      {
+        "id":21,
+        "marca":"",
+        "modelo":"",
+        "precio":0,
+        "descripcion":"",
+        "caracteristica":[],
+        "imgMain":"",
+        "imgs":[]
       }
     ]
   },
