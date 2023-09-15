@@ -26,6 +26,9 @@
   outline: 2px solid #a82d2d;
   padding: 1rem;
 }
+.results_card:hover {
+  box-shadow: 0px 0px 24px 0px rgba(0,0,0,0.75);
+}
 
 .results_card h3 {
   color: #78A962;
@@ -46,4 +49,27 @@
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+}
+
+/* PAgination */
+.pagination {
+  display: flex ;
+  justify-content: center;
+  margin: 2rem;
+  gap: 1rem;
+}
+
+.pagination .paginationBtn {
+  border: none;
+  outline: none;
+  background-color: #222;
+  color: #fff;
+  font-weight: 600;
+  padding: .6rem .8rem;
+  border-radius: .3rem;
+  cursor: pointer;
+}
+
+.pagination .paginationBtn:hover {
+  background-color: #525151;
 }

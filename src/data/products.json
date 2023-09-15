@@ -584,6 +584,428 @@
       },
       {
         "id":21,
+        "marca":"Cybertel",
+        "modelo":"EXPLORER CBX GK1002",
+        "precio":0,
+        "descripcion":"RAINBOW TECLADO GAMER 87KEYS MECANICO USB",
+        "caracteristica":[
+          "Teclado Gamer Mecánico Rainbow.",
+          "Función Multimedia FN( F1-F12).",
+          "Sistema Láser Carved: Resistente al Borrado por Desgaste.",
+          "Teclas Semi Curvas.",
+          "12 Teclas con Funciones Adicionales Multimedia Accionadas Mediante la Tecla FN.",
+          "9 Modos de Iluminación LED Rainbow.",
+          "Pulsadores Azules de Doble Feedback.",
+          "Interface(Conexión USB).",
+          "Filtro de Anti electromagnetismo.",
+          "Covertor Superior Material: Aluminio.",
+          "Distribución de Teclas: Español / España.",
+          "Idioma: Español/Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros."
+        ],
+        "imgMain":"/img/productos/teclados/EXPLORER_CBX_GK1002_RAINBOW_TECLADO_GAMER_87KEYS_MECANICO_USB_CYBERTEL/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/EXPLORER_CBX_GK1002_RAINBOW_TECLADO_GAMER_87KEYS_MECANICO_USB_CYBERTEL/main.jpg",
+          "/img/productos/teclados/EXPLORER_CBX_GK1002_RAINBOW_TECLADO_GAMER_87KEYS_MECANICO_USB_CYBERTEL/img1.jpg",
+          "/img/productos/teclados/EXPLORER_CBX_GK1002_RAINBOW_TECLADO_GAMER_87KEYS_MECANICO_USB_CYBERTEL/img2.jpg",
+          "/img/productos/teclados/EXPLORER_CBX_GK1002_RAINBOW_TECLADO_GAMER_87KEYS_MECANICO_USB_CYBERTEL/img3.jpg"
+        ]
+      },
+      {
+        "id":22,
+        "marca":"Micronics",
+        "modelo":"RACING FK1013",
+        "precio":0,
+        "descripcion":"RGB TECLADO GAMER MECANICO USB",
+        "caracteristica":[
+          "Iluminación LED RGB.",
+          "Diseño Compacto",
+          "Teclas Impresas en Láser (Láser Carved).",
+          "12 Teclas con Funciones Multimedia e Internet.",
+          "Teclas Antighosting.",
+          "Teclas de Doble Inyección Plástica.",
+          "Pulsadores Mecánicos con Sistema de Doble Feedback (Sonoro y Táctil).",
+          "Base de Aluminio Resistente a los Golpes.",
+          "Cable de Nylon Trenzado de 1.70 m, con Filtro Antielectromagnético.",
+          "Conector USB Dorado.",
+          "Distribución de Teclas: Español - España.",
+          "Compatible con Sistemas Operativos Windows y Otros."
+        ],
+        "imgMain":"/img/productos/teclados/RACING_FK1013_RGB_TECLADO_GAMER_MECANICO_USB_MICRONICS/main.avif",
+        "imgs":[
+          "/img/productos/teclados/RACING_FK1013_RGB_TECLADO_GAMER_MECANICO_USB_MICRONICS/main.avif",
+          "/img/productos/teclados/RACING_FK1013_RGB_TECLADO_GAMER_MECANICO_USB_MICRONICS/img1.avif",
+          "/img/productos/teclados/RACING_FK1013_RGB_TECLADO_GAMER_MECANICO_USB_MICRONICS/img2.avif"
+        ]
+      },
+      {
+        "id":23,
+        "marca":"Micronics",
+        "modelo":"KRATOSS FK1008",
+        "precio":0,
+        "descripcion":"RGB 87 KEYS TECLADO GAMER MECANICO USB",
+        "caracteristica":[
+          "Retroiluminación RGB.",
+          "Teclas de Dobre Inyección Plástica, Teclas que No Se Borran con el Uso.",
+          "12 Teclas con Funciones Multimedia e Internet. ",
+          "Teclas Antighosting.",
+          "Estructura Superior de Aluminio.",
+          "Pulsadores Mecánicos Rojos Lineales, Para una Escritura Más Silenciosa.",
+          "Base de Aluminio Resistente a los Golpes.",
+          "Cable de Nylon Trenzado con Filtro Antielectromagnético",
+          "Conector USB Dorado.",
+          "Distribución de Teclas: Español - España. Idioma: Español - Internacional. ",
+          "Compatible con Sistemas Operativos Windows y Otros."
+        ],
+        "imgMain":"/img/productos/teclados/KRATOSS_FK1008_RGB_87_KEYS_TECLADO_GAMER_MECANICO_USB_MICRONICS/main.webp",
+        "imgs":[
+          "/img/productos/teclados/KRATOSS_FK1008_RGB_87_KEYS_TECLADO_GAMER_MECANICO_USB_MICRONICS/main.webp",
+          "/img/productos/teclados/KRATOSS_FK1008_RGB_87_KEYS_TECLADO_GAMER_MECANICO_USB_MICRONICS/img1.webp",
+          "/img/productos/teclados/KRATOSS_FK1008_RGB_87_KEYS_TECLADO_GAMER_MECANICO_USB_MICRONICS/img2.webp",
+          "/img/productos/teclados/KRATOSS_FK1008_RGB_87_KEYS_TECLADO_GAMER_MECANICO_USB_MICRONICS/img3.webp"
+        ]
+      },
+      {
+        "id":24,
+        "marca":"Micronics",
+        "modelo":"VANQUISH FK1003",
+        "precio":0,
+        "descripcion":"RGB TECLADO GAMER MECANICO USB",
+        "caracteristica":[
+          "Teclado Fanatic Mecánico RGB.",
+          "Función Multimedia FN(F1-F12).",
+          "Funciones Personalizables Tecla a Tecla.",
+          "4 Bloqueos de Funciones Para Evitar Cambios Erróneos al Jugar.",
+          "Macros Asignables en Teclas.",
+          "Sistema de Teclas con Doble Inyección para Garantizar una Iluminación Nítida.",
+          "Teclas Semi Curvas: Para una Escritura sin Esfuerzo.",
+          "12 + 4 Teclas con Funciones Adicionales Multimedia.",
+          "20 Modos de Iluminación LED RGB.",
+          "Pulsadores Mecánicos Azules Táctiles.",
+          "Reposa Muñecas.",
+          "Interface (Conexión USB).",
+          "Covertor Superior Material: Aluminio.",
+          "Distribución de Teclas: Español / España.",
+          "Compatible con Sistemas Windows, Linux y Otros."
+        ],
+        "imgMain":"/img/productos/teclados/VANQUISH_FK1003_RGB_TECLADO_GAMER_MECANICO_USB_MICRONICS/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/VANQUISH_FK1003_RGB_TECLADO_GAMER_MECANICO_USB_MICRONICS/main.jpg",
+          "/img/productos/teclados/VANQUISH_FK1003_RGB_TECLADO_GAMER_MECANICO_USB_MICRONICS/img1.jpg",
+          "/img/productos/teclados/VANQUISH_FK1003_RGB_TECLADO_GAMER_MECANICO_USB_MICRONICS/img2.jpg",
+          "/img/productos/teclados/VANQUISH_FK1003_RGB_TECLADO_GAMER_MECANICO_USB_MICRONICS/img3.jpg"
+        ]
+      },
+      {
+        "id":25,
+        "marca":"Micronics",
+        "modelo":"LEGACY FK1002",
+        "precio":0,
+        "descripcion":"RGB TECLADO GAMER MECANICO USB",
+        "caracteristica":[
+          "Teclado Fanatic Mecánico RGB.",
+          "Función Multimedia FN(F1-F12).",
+          "Sistema Láser Carved: Resistente al Borrado por Desgaste.",
+          "Teclas Semi Curvas: Para una Escritura sin Esfuerzo/Teclas LED Flotantes.",
+          "Teclas Anti- Ghosting: Evita que al Pulsar más de una Tecla al mismo Tiempo Genere Colisión de Comandos.",
+          "12 Teclas con Funciones Adicionales Multimedia e Internet.",
+          "Iluminación LED RGB.",
+          "Pulsadores Mecánicos con Sistema de Doble Feedback (Sonoro y Táctil).",
+          "Filtro de Anti electromagnetismo.",
+          "Interface (Conexión USB).",
+          "Distribución de Teclas: Español / España.",
+          "Compatible con Sistemas Windows, Linux y Otros. "
+        ],
+        "imgMain":"/img/productos/teclados/LEGACY_FK1002_RGB_TECLADO_GAMER_MECANICO_USB_MICRONICS/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/LEGACY_FK1002_RGB_TECLADO_GAMER_MECANICO_USB_MICRONICS/main.jpg",
+          "/img/productos/teclados/LEGACY_FK1002_RGB_TECLADO_GAMER_MECANICO_USB_MICRONICS/img1.jpg",
+          "/img/productos/teclados/LEGACY_FK1002_RGB_TECLADO_GAMER_MECANICO_USB_MICRONICS/img2.jpg",
+          "/img/productos/teclados/LEGACY_FK1002_RGB_TECLADO_GAMER_MECANICO_USB_MICRONICS/img3.jpg"
+        ]
+      },
+      {
+        "id":26,
+        "marca":"Cybertel",
+        "modelo":"EBONY CYB K105",
+        "precio":0,
+        "descripcion":"TECLADO USB",
+        "caracteristica":[
+          "Teclado Estándar.",
+          "Función Multimedia Estándar.",
+          "Sistema Barniz UV Antiborrado: Resistente al Borrado por Desgaste.",
+          "Sistema Waterproof: Permite la Salida de Líquidos.",
+          "Teclas Semi Curvas: Para una Escritura sin Esfuerzo/Teclas LED Flotantes.",
+          "Interface (Conexión USB).",
+          "Distribución de Teclas: Español / España.",
+          "Compatible con Sistemas Windows, Linux y Otros."
+        ],
+        "imgMain":"/img/productos/teclados/EBONY_CYB_K105_TECLADO_USB_CYBERTEL/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/EBONY_CYB_K105_TECLADO_USB_CYBERTEL/main.jpg",
+          "/img/productos/teclados/EBONY_CYB_K105_TECLADO_USB_CYBERTEL/img1.jpg",
+          "/img/productos/teclados/EBONY_CYB_K105_TECLADO_USB_CYBERTEL/img2.jpg",
+          "/img/productos/teclados/EBONY_CYB_K105_TECLADO_USB_CYBERTEL/img3.jpg"
+        ]
+      },
+      {
+        "id":27,
+        "marca":"Cybertel",
+        "modelo":"ROCKER CYB K100",
+        "precio":0,
+        "descripcion":"TECLADO USB",
+        "caracteristica":[
+          "Teclado Estándar.",
+          "Función Multimedia Estándar.",
+          "Sistema Barniz UV Antiborrado: Resistente al Borrado por Desgaste.",
+          "Sistema Waterproof: Permite la Salida de Líquidos.",
+          "Teclas Semi Curvas.",
+          "Interface (Conexión USB).",
+          "Distribución de Teclas: Español / España.",
+          "dioma: Español/Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros. "
+        ],
+        "imgMain":"/img/productos/teclados/ROCKER_CYB_K100_TECLADO_USB_CYBERTEL/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/ROCKER_CYB_K100_TECLADO_USB_CYBERTEL/main.jpg",
+          "/img/productos/teclados/ROCKER_CYB_K100_TECLADO_USB_CYBERTEL/img1.jpg",
+          "/img/productos/teclados/ROCKER_CYB_K100_TECLADO_USB_CYBERTEL/img2.jpg",
+          "/img/productos/teclados/ROCKER_CYB_K100_TECLADO_USB_CYBERTEL/img3.jpg"
+        ]
+      },
+      {
+        "id":28,
+        "marca":"Cybertel",
+        "modelo":"PIXEL CYB K236",
+        "precio":0,
+        "descripcion":"RGB MINI TECLADO LED WIFI TOUCH",
+        "caracteristica":[
+          "Mini Teclado- Touch Inalámbrico con Panel Táctil.",
+          "Función Multimedia Estándar.",
+          "Sistema Barniz UV Antiborrado: Resistente al Borrado por Desgaste.",
+          "Luces LED: RGB.",
+          "Conexión WIFI 2.4 GHZ,",
+          "Interface (Conexión USB).",
+          "Batería Recargable.",
+          "Distribución de Teclas: Español / España.",
+          "Idioma: Español/Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros. "
+        ],
+        "imgMain":"/img/productos/teclados/PIXEL_CYB_K236_RGB_MINI_TECLADO_LED_WIFI_TOUCH_CYBERTEL/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/PIXEL_CYB_K236_RGB_MINI_TECLADO_LED_WIFI_TOUCH_CYBERTEL/main.jpg",
+          "/img/productos/teclados/PIXEL_CYB_K236_RGB_MINI_TECLADO_LED_WIFI_TOUCH_CYBERTEL/img1.jpg",
+          "/img/productos/teclados/PIXEL_CYB_K236_RGB_MINI_TECLADO_LED_WIFI_TOUCH_CYBERTEL/img2.jpg",
+          "/img/productos/teclados/PIXEL_CYB_K236_RGB_MINI_TECLADO_LED_WIFI_TOUCH_CYBERTEL/img3.jpg"
+        ]
+      },
+      {
+        "id":29,
+        "marca":"Micronics",
+        "modelo":"MAGNUS+ MIC K734",
+        "precio":0,
+        "descripcion":"TECLADO MULTIMEDIA USB",
+        "caracteristica":[
+          "Teclado Multimedia.",
+          "Función Multimedia FN( F1 - F12)",
+          "Sistema Barniz UV Antiborrado: Resistente al Borrado por Desgaste.",
+          "105 Teclas Semi Planas.",
+          "Interface(Conexión USB).",
+          "Ranura para Smartphone.",
+          "Distribución de Teclas: Español / España.",
+          "Idioma: Español/Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros. "
+        ],
+        "imgMain":"/img/productos/teclados/MAGNUS+_MIC_K734_TECLADO_MULTIMEDIA_USB_MICRONICS/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/MAGNUS+_MIC_K734_TECLADO_MULTIMEDIA_USB_MICRONICS/main.jpg",
+          "/img/productos/teclados/MAGNUS+_MIC_K734_TECLADO_MULTIMEDIA_USB_MICRONICS/img1.jpg",
+          "/img/productos/teclados/MAGNUS+_MIC_K734_TECLADO_MULTIMEDIA_USB_MICRONICS/img2.jpg",
+          "/img/productos/teclados/MAGNUS+_MIC_K734_TECLADO_MULTIMEDIA_USB_MICRONICS/img3.jpg"
+        ]
+      },
+      {
+        "id":30,
+        "marca":"Micronics",
+        "modelo":"MCQUEEN MIC K706",
+        "precio":0,
+        "descripcion":"TECLADO MULTIMEDIA USB T/CHOCOLATE",
+        "caracteristica":[
+          "Teclado Multimedia.",
+          "Función Multimedia FN( F1 - F12).",
+          "Sistema Barniz UV Antiborrado: Resistente al Borrado por Desgaste.",
+          "Sistema Waterproof: Permite la Salida de Líquidos.",
+          "Teclas Elevadas Tipo Chocolate: Para una Escritura sin Esfuerzo.",
+          "12 Teclas con Funciones Adicionales Multimedia e Internet. Habilitadas con Teclas FN +(F1 al F12).",
+          "Covertor Antideslizante",
+          "Distribución de Teclas: Español / España.",
+          "Compatible con Sistemas Windows, Linux y Otros."
+        ],
+        "imgMain":"/img/productos/teclados/MCQUEEN_MIC_K706_TECLADO_MULTIMEDIA_USB_TCHOCOLATE_MICRONICS/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/MCQUEEN_MIC_K706_TECLADO_MULTIMEDIA_USB_TCHOCOLATE_MICRONICS/main.jpg",
+          "/img/productos/teclados/MCQUEEN_MIC_K706_TECLADO_MULTIMEDIA_USB_TCHOCOLATE_MICRONICS/img1.jpg",
+          "/img/productos/teclados/MCQUEEN_MIC_K706_TECLADO_MULTIMEDIA_USB_TCHOCOLATE_MICRONICS/img2.jpg",
+          "/img/productos/teclados/MCQUEEN_MIC_K706_TECLADO_MULTIMEDIA_USB_TCHOCOLATE_MICRONICS/img3.jpg"
+        ]
+      },
+      {
+        "id":31,
+        "marca":"Micronics",
+        "modelo":"NOBEL MIC K708",
+        "precio":0,
+        "descripcion":"TECLADO MULTIMEDIA USB",
+        "caracteristica":[
+          "Teclado Multimedia.",
+          "Función Multimedia Estándar.",
+          "Sistema Barniz UV Antiborrado: Resistente al Borrado por Desgaste.",
+          "Teclas Semi Planas",
+          "12 Teclas con Funciones Adicionales Multimedia e Internet.",
+          "Interface (Conexión USB).",
+          "Distribución de Teclas: Español / España.",
+          "Idioma: Español / Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros."
+        ],
+        "imgMain":"/img/productos/teclados/NOBEL_MIC_K708_TECLADO_MULTIMEDIA_USB_MICRONICS/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/NOBEL_MIC_K708_TECLADO_MULTIMEDIA_USB_MICRONICS/main.jpg",
+          "/img/productos/teclados/NOBEL_MIC_K708_TECLADO_MULTIMEDIA_USB_MICRONICS/img1.jpg",
+          "/img/productos/teclados/NOBEL_MIC_K708_TECLADO_MULTIMEDIA_USB_MICRONICS/img2.jpg"
+        ]
+      },
+      {
+        "id":32,
+        "marca":"Enkore",
+        "modelo":"ACCESS ENK308",
+        "precio":0,
+        "descripcion":"TECLADO USB",
+        "caracteristica":[
+          "Teclado Estándar.",
+          "Función Multimedia Estándar.",
+          "Sistema Barniz UV Antiborrado: Resistente al Borrado por Desgaste.",
+          "Teclas Semi Curvas: Para una Escritura sin Esfuerzo.",
+          "Interface (Conexión USB).",
+          "Distribución de Teclas: Español / España.",
+          "Idioma: Español/Internacional.",
+          "Compatible con Sistemas Windows, Linux y Otros."
+        ],
+        "imgMain":"/img/productos/teclados/ACCESS_ENK308_TECLADO_USB_ENKORE/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/ACCESS_ENK308_TECLADO_USB_ENKORE/main.jpg",
+          "/img/productos/teclados/ACCESS_ENK308_TECLADO_USB_ENKORE/img1.jpg",
+          "/img/productos/teclados/ACCESS_ENK308_TECLADO_USB_ENKORE/img2.jpg",
+          "/img/productos/teclados/ACCESS_ENK308_TECLADO_USB_ENKORE/img3.jpg"
+        ]
+      },
+      {
+        "id":33,
+        "marca":"Enkore",
+        "modelo":"PIVOT ENK305",
+        "precio":0,
+        "descripcion":"TECLADO USB",
+        "caracteristica":[
+          "Sistema Waterproof: Permite la Salida de Líquidos",
+          "Barniz UV Antiborrado: Letras Resistentes al Desgaste.",
+          "Conexión USB.",
+          "Compatible con Sistemas",
+          "Operativos Windows."
+        ],
+        "imgMain":"/img/productos/teclados/PIVOT_ENK305_TECLADO_USB_ENKORE/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/PIVOT_ENK305_TECLADO_USB_ENKORE/main.jpg",
+          "/img/productos/teclados/PIVOT_ENK305_TECLADO_USB_ENKORE/img1.jpg",
+          "/img/productos/teclados/PIVOT_ENK305_TECLADO_USB_ENKORE/img2.jpg"
+        ]
+      },
+      {
+        "id":34,
+        "marca":"Enkore",
+        "modelo":"CADET ENK515",
+        "precio":0,
+        "descripcion":"TECLADO MULTIMEDIA USB",
+        "caracteristica":[
+          "Teclado Multimedia.",
+          "Teclas Semicurvas.",
+          "Teclas con Recubierta UV.",
+          "Sistema Antiderrame (Waterproof)",
+          "Permite la Salida de Líquidos en Caso de Derrame Sobre las Teclas.",
+          "Barniz UV Antiborrado: Letras Resistentes al Borrado Por Desgaste.",
+          "8 Teclas con Funciones Adicionales de Multimedia e Internet.",
+          "Conexión USB.",
+          "Teclas Direccionales y WASD Color Rojo.",
+          "Distribución de Teclas: Español - España.",
+          "Compatible con Todos los Sistemas Operativos."
+        ],
+        "imgMain":"/img/productos/teclados/CADET_ENK515_TECLADO_MULTIMEDIA_USB_ENKORE/main.webp",
+        "imgs":[
+          "/img/productos/teclados/CADET_ENK515_TECLADO_MULTIMEDIA_USB_ENKORE/main.webp",
+          "/img/productos/teclados/CADET_ENK515_TECLADO_MULTIMEDIA_USB_ENKORE/img1.webp",
+          "/img/productos/teclados/CADET_ENK515_TECLADO_MULTIMEDIA_USB_ENKORE/img2.webp",
+          "/img/productos/teclados/CADET_ENK515_TECLADO_MULTIMEDIA_USB_ENKORE/img3.webp"
+        ]
+      },
+      {
+        "id":35,
+        "marca":"Enkore",
+        "modelo":"ARGOS ENK301",
+        "precio":0,
+        "descripcion":"TECLADO MULTIMEDIA USB T/SEMICURVAS",
+        "caracteristica":[
+          "Teclado Multimedia e Internet.",
+          "10 Teclas con Funciones Adicionales de Multimedia e Internet.",
+          "Color Negro con Teclas AWSD y Direccionales en Rojo. ",
+          "Conexión: USB",
+          "Teclas Semicurvas.",
+          "Barniz UV Antiborrado: Letras Resistentes al Borrado",
+          "Sistema Antiderrame (Waterproof)",
+          "Caso de Derrame sobre la Superficie del Teclado.",
+          "Compatible con Todos los Sistemas Operativos."
+        ],
+        "imgMain":"/img/productos/teclados/ARGOS_ENK301_TECLADO_MULTIMEDIA_USB_TSEMICURVAS_ENKORE/main.jpg",
+        "imgs":[
+          "/img/productos/teclados/ARGOS_ENK301_TECLADO_MULTIMEDIA_USB_TSEMICURVAS_ENKORE/main.jpg",
+          "/img/productos/teclados/ARGOS_ENK301_TECLADO_MULTIMEDIA_USB_TSEMICURVAS_ENKORE/img1.png",
+          "/img/productos/teclados/ARGOS_ENK301_TECLADO_MULTIMEDIA_USB_TSEMICURVAS_ENKORE/img2.png"
+        ]
+      },
+      {
+        "id":36,
+        "marca":"Cybertel",
+        "modelo":"HAMILTON CYB K219",
+        "precio":0,
+        "descripcion":"TECLADO MULTIMEDIA USB",
+        "caracteristica":[
+          "Teclado Multimedia.",
+          "Teclas Semi Curvas.",
+          "Teclas con Recubierta UV Resistentes al Borrado por Desgaste.",
+          "13 Botones Dedicados a Funciones Multimedia.",
+          "Teclas Direccionales y WASD Color Rojo.",
+          "Sistema Anti-Derrame (Water-Proof)",
+          "Permite la Salida de Líquidos en Caso de Derrame Sobre la Superficie del Teclado.",
+          "Conexión USB.",
+          "Distribución de Teclas: Español-España.",
+          "Compatible con Sistemas Operativos Windows."
+        ],
+        "imgMain":"/img/productos/teclados/HAMILTON_CYB_K219_TECLADO_MULTIMEDIA_USB_CYBERTEL/main.webp",
+        "imgs":[
+          "/img/productos/teclados/HAMILTON_CYB_K219_TECLADO_MULTIMEDIA_USB_CYBERTEL/main.webp",
+          "/img/productos/teclados/HAMILTON_CYB_K219_TECLADO_MULTIMEDIA_USB_CYBERTEL/img1.webp",
+          "/img/productos/teclados/HAMILTON_CYB_K219_TECLADO_MULTIMEDIA_USB_CYBERTEL/img2.webp",
+          "/img/productos/teclados/HAMILTON_CYB_K219_TECLADO_MULTIMEDIA_USB_CYBERTEL/img3.webp"
+        ]
+      },
+      {
+        "id":37,
+        "marca":"",
+        "modelo":"",
+        "precio":0,
+        "descripcion":"",
+        "caracteristica":[],
+        "imgMain":"",
+        "imgs":[]
+      },
+      {
+        "id":38,
         "marca":"",
         "modelo":"",
         "precio":0,
