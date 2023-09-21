@@ -43,7 +43,6 @@ const ProductList = ({ data_products }) => {
               <h2>{product.modelo}</h2>
               <p>{product.descripcion}</p>
               <div className='card_precio'>
-                <span>S/37</span>
                 <span>{product.precio}</span>
               </div>
             </div>

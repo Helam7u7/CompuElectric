@@ -6,35 +6,92 @@
     "product":[
       {
         "id":1,
-        "marca":"HP",
-        "modelo":"HP 12FHD2200",
-        "precio":2500,
-        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":""
+        "marca":"",
+        "modelo":"LIBERTY 5 MX500 SISTEMA DE AUDIO PORTATIL TWS USB mSD MAXTRON",
+        "precio":0,
+        "descripcion":"",
+        "caracteristica":[
+          "Portable Sound System",
+          "Conexión Bluetooth: Estable de Largo Alcance",
+          "Batería recargable de Litio: 1200 Mah/3.7v.",
+          "Función TWS: Permite Enlazar 2 Parlantes.",
+          "Lector de Memoria USB/Micro SD (TF Card).",
+          "Puerto de Carga Micro USB.",
+          "IPX4: Protección Contra Salpicaduras de Agua.",
+          "Deep Bass: Membrana Acústica Mejor Efecto de Bajos. ",
+          "Potencia de salida: 10 watts Luces LED"
+        ],
+        "imgMain":"/img/productos/Parlantes/LIBERTY_5_MX500_SISTEMA_DE_AUDIO_PORTATIL_TWS_USB_mSD_MAXTRON/main.jfif",
+        "imgs":[
+          "/img/productos/Parlantes/LIBERTY_5_MX500_SISTEMA_DE_AUDIO_PORTATIL_TWS_USB_mSD_MAXTRON/main.jfif",
+          "/img/productos/Parlantes/LIBERTY_5_MX500_SISTEMA_DE_AUDIO_PORTATIL_TWS_USB_mSD_MAXTRON/img1.webp",
+          "/img/productos/Parlantes/LIBERTY_5_MX500_SISTEMA_DE_AUDIO_PORTATIL_TWS_USB_mSD_MAXTRON/img2.webp"
+        ]
       },
       {
         "id":2,
-        "marca":"HP",
-        "modelo":"HP 12FHD2200",
-        "precio":2500,
-        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":""
+        "marca":"Maxtron",
+        "modelo":"SISTEMA DE AUDIO PORTATIL TWS USB",
+        "precio":0,
+        "descripcion":"CRUISER BLACK MX500K",
+        "caracteristica":[
+          "Portable Sound System",
+          "Conexión Bluetooth: Estable de Largo Alcance.",
+          "Batería de Litio de 2000 Mah/3.7v.",
+          "Función TWS: Permite Enlazar 2 Parlantes.",
+          "Lector de Memoria USB.",
+          "Puerto de Carga Tipo C DC 5v.",
+          "IPX6: Protección Contra Salpicaduras de Agua.",
+          "Deep Bass: Membrana Acústica Mejor Efecto de Bajos",
+          "Dispositivo Manos Libres.",
+          "Incluye: Cable USB a Tipo C Para Carga."
+        ],
+        "imgMain":"/img/productos/Parlantes/CRUISER_BLACK_MX500K_SISTEMA_DE_AUDIO_PORTATIL_TWS_USB_MAXTRON/main.avif",
+        "imgs":[
+          "/img/productos/Parlantes/CRUISER_BLACK_MX500K_SISTEMA_DE_AUDIO_PORTATIL_TWS_USB_MAXTRON/main.avif",
+          "/img/productos/Parlantes/CRUISER_BLACK_MX500K_SISTEMA_DE_AUDIO_PORTATIL_TWS_USB_MAXTRON/img1.avif",
+          "/img/productos/Parlantes/CRUISER_BLACK_MX500K_SISTEMA_DE_AUDIO_PORTATIL_TWS_USB_MAXTRON/img2.avif"
+        ]
       },
       {
         "id":3,
-        "marca":"HP",
-        "modelo":"HP 12FHD2200",
-        "precio":2500,
-        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":""
+        "marca":"",
+        "modelo":"",
+        "precio":0,
+        "descripcion":"",
+        "caracteristica":[],
+        "imgMain":"",
+        "imgs":[]
       },
       {
         "id":4,
-        "marca":"HP",
-        "modelo":"HP 12FHD2200",
-        "precio":2500,
-        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":""
+        "marca":"",
+        "modelo":"",
+        "precio":0,
+        "descripcion":"",
+        "caracteristica":[],
+        "imgMain":"",
+        "imgs":[]
+      },
+      {
+        "id":5,
+        "marca":"",
+        "modelo":"",
+        "precio":0,
+        "descripcion":"",
+        "caracteristica":[],
+        "imgMain":"",
+        "imgs":[]
+      },
+      {
+        "id":6,
+        "marca":"",
+        "modelo":"",
+        "precio":0,
+        "descripcion":"",
+        "caracteristica":[],
+        "imgMain":"",
+        "imgs":[]
       }
     ]
   },
@@ -1023,51 +1080,259 @@
     "product":[
       {
         "id":1,
-        "marca":"HyperX",
-        "modelo":"Hyper Pulsefire Haste Global Gaming",
-        "precio":2500,
-        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":"/img/mouses/HyperPulsefireHasteGlobalGaming.png"
+        "marca":"Enkore",
+        "modelo":"KALIBER EKM305",
+        "precio":0,
+        "descripcion":"MOUSE USB 7LEDS",
+        "caracteristica":[
+          "Mouse Óptico Gamer. ",
+          "Alta  Sensibilidad: 1600 DPI.",
+          "Iluminación LED de 7 Colores.",
+          "Conexión: Cable USB. ",
+          "Filtro Antielectromagnetismo. ",
+          "Fácil Desplazamiento Scroll",
+          "Diseño Ergonómico",
+          "Cable de Nylon Trenzado: 1.5 m.",  
+          "Para una Mayor Estabilidad de Manos."
+        ],
+        "imgMain":"/img/productos/Mouses/KALIBER_EKM305_MOUSE_USB_7LEDS_ENKORE/main.jpg",
+        "imgs":[
+          "/img/productos/Mouses/KALIBER_EKM305_MOUSE_USB_7LEDS_ENKORE/main.jpg",
+          "/img/productos/Mouses/KALIBER_EKM305_MOUSE_USB_7LEDS_ENKORE/img1.jpg",
+          "/img/productos/Mouses/KALIBER_EKM305_MOUSE_USB_7LEDS_ENKORE/img2.jpg",
+          "/img/productos/Mouses/KALIBER_EKM305_MOUSE_USB_7LEDS_ENKORE/img3.jpg"
+        ]
       },
       {
         "id":2,
-        "marca":"HyperX",
-        "modelo":"HyperX Pulsefire CORERGB Gaming",
-        "precio":2500,
-        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":"/img/mouses/HyperXPulsefireCORERGBGaming.png"
+        "marca":"Enkore",
+        "modelo":"VIBRANT EKM301",
+        "precio":0,
+        "descripcion":"MOUSE USB 7LEDS",
+        "caracteristica":[
+          "Mouse Óptico Gamer de 3 Botones. ",
+          "Sensibilidad: 1000 DPI.",
+          "Iluminación LED de 7 Colores.",
+          "Conexión USB. ",
+          "Fácil Desplazamiento Scroll",
+          "Diseño Ergonómico",
+          "Compatible con Sistemas Windows"
+        ],
+        "imgMain":"/img/productos/Mouses/VIBRANT_EKM301_MOUSE_USB_7LEDS_ENKORE/main.jpg",
+        "imgs":[
+          "/img/productos/Mouses/VIBRANT_EKM301_MOUSE_USB_7LEDS_ENKORE/main.jpg",
+          "/img/productos/Mouses/VIBRANT_EKM301_MOUSE_USB_7LEDS_ENKORE/img1.jpg",
+          "/img/productos/Mouses/VIBRANT_EKM301_MOUSE_USB_7LEDS_ENKORE/img2.jpg",
+          "/img/productos/Mouses/VIBRANT_EKM301_MOUSE_USB_7LEDS_ENKORE/img3.jpg"
+        ]
       },
       {
         "id":3,
-        "marca":"HyperX",
-        "modelo":"HyperX Pulsefire FPS Pro",
-        "precio":2500,
-        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":"/img/mouses/HyperXPulsefireFPSPro.png"
+        "marca":"Enkore",
+        "modelo":"BRAIN EKM302",
+        "precio":0,
+        "descripcion":"MOUSE GAMER USB 7LEDS 6B 3200DPI",
+        "caracteristica":[
+          "Mouse Óptico Gamer. ",
+          "Alta Sensibilidad de 3600 DPI.",
+          "Iluminación LED de 7 Colores.",
+          "Conexión: Cable USB. ",
+          "Filtro Antielectromagnetismo.",
+          "2 Botones de Avance y Retroceso.",
+          "Desplazamiento Scroll",
+          "Diseño Ergonómico",
+          "Compatible con Sistemas Windows"
+        ],
+        "imgMain":"/img/productos/Mouses/BRAIN_EKM302_MOUSE_GAMER_USB_7LEDS_6B_3200DPI_ENKORE/main.jpg",
+        "imgs":[
+          "/img/productos/Mouses/BRAIN_EKM302_MOUSE_GAMER_USB_7LEDS_6B_3200DPI_ENKORE/main.jpg",
+          "/img/productos/Mouses/BRAIN_EKM302_MOUSE_GAMER_USB_7LEDS_6B_3200DPI_ENKORE/img1.jpg",
+          "/img/productos/Mouses/BRAIN_EKM302_MOUSE_GAMER_USB_7LEDS_6B_3200DPI_ENKORE/img2.jpg",
+          "/img/productos/Mouses/BRAIN_EKM302_MOUSE_GAMER_USB_7LEDS_6B_3200DPI_ENKORE/img3.jpg"
+        ]
       },
       {
         "id":4,
-        "marca":"HyperX",
-        "modelo":"HyperX Pulsefire Haste Global Gaming",
-        "precio":2500,
-        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":"/img/mouses/HyperXPulsefireHasteGlobalGaming.png"
+        "marca":"Enkore",
+        "modelo":"BRAVIO EKM313",
+        "precio":0,
+        "descripcion":"MOUSE GAMER USB 7LEDS 6B",
+        "caracteristica":[
+          "Mouse Gamer de 6Botones.",
+          "Iluminación LED de Colores.",
+          "Alta Sensibilidad Graduable: 1200 - 1800 - 2400 - 3600 DPI.",
+          "2 Botones de Avance y Retroceso. ",
+          "Peso Extra para Mayor Estabilidad.",
+          "Cable de Nylon Trenzado.",
+          "Filtro Antielectromagnetismo.",
+          "Compatible con Sistemas Windows"
+        ],
+        "imgMain":"/img/productos/Mouses/BRAVIO_EKM313_MOUSE_GAMER_USB_7LEDS_6B_ENKORE/main.webp",
+        "imgs":[
+          "/img/productos/Mouses/BRAVIO_EKM313_MOUSE_GAMER_USB_7LEDS_6B_ENKORE/main.webp",
+          "/img/productos/Mouses/BRAVIO_EKM313_MOUSE_GAMER_USB_7LEDS_6B_ENKORE/img1.webp",
+          "/img/productos/Mouses/BRAVIO_EKM313_MOUSE_GAMER_USB_7LEDS_6B_ENKORE/img2.webp",
+          "/img/productos/Mouses/BRAVIO_EKM313_MOUSE_GAMER_USB_7LEDS_6B_ENKORE/img3.webp"
+        ]
       },
       {
         "id":5,
-        "marca":"HyperX",
-        "modelo":"HyperX Pulsefire Raid Black",
-        "precio":2500,
-        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":"/img/mouses/HyperXPulsefireRaidBlack.png"
+        "marca":"CYBERTEL",
+        "modelo":"KEEPER CYB M508+ ",
+        "precio":0,
+        "descripcion":"MOUSE GAMER USB 7LEDS 3200DPI",
+        "caracteristica":[
+          "Mouse Óptico Gamer.",
+          "DPI Graduable Hasta 3200.",
+          "Conexión USB.",
+          "6 Botones de Función, Incluye Funciones de Avance y Retroceso.",
+          "Fácil Desplazamiento (Scroll Iluminado).",
+          "Peso Extra Para Mayor Estabilidad.",
+          "Cable de Nylon Trenzado de 1.5 m.",
+          "Compatible con Sistemas Operativos Windows."
+        ],
+        "imgMain":"/img/productos/Mouses/KEEPER_CYB_M508+_MOUSE_GAMER_USB_7LEDS_3200DPI_CYBERTEL/main.jpg",
+        "imgs":[
+          "/img/productos/Mouses/KEEPER_CYB_M508+_MOUSE_GAMER_USB_7LEDS_3200DPI_CYBERTEL/main.jpg",
+          "/img/productos/Mouses/KEEPER_CYB_M508+_MOUSE_GAMER_USB_7LEDS_3200DPI_CYBERTEL/img1.jpg",
+          "/img/productos/Mouses/KEEPER_CYB_M508+_MOUSE_GAMER_USB_7LEDS_3200DPI_CYBERTEL/img2.jpg",
+          "/img/productos/Mouses/KEEPER_CYB_M508+_MOUSE_GAMER_USB_7LEDS_3200DPI_CYBERTEL/img3.jpg"
+        ]
       },
       {
         "id":6,
-        "marca":"HyperX",
-        "modelo":"HyperX Pulsefire Surge RGB Black",
-        "precio":2500,
-        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":"/img/mouses/HyperXPulsefireSurgeRGBBlack.png"
+        "marca":"Cybertel",
+        "modelo":"EPICO CYB M505",
+        "precio":0,
+        "descripcion":"MOUSE GAMER USB 7LEDS 3200DPI",
+        "caracteristica":[
+          "Mouse Óptico Gamer.",
+          "DPI Graduable Hasta 3200. ",
+          "Conexión USB.",
+          "6 Botones de Función, Incluye Funciones de Avance y Retroceso. ",
+          "Iluminación LED de 7 Colores",
+          "Fácil Desplazamiento (Scroll Iluminado).",
+          "Peso Extra Para Mayor Estabilidad.",
+          "Diseño Ergonómico.",
+          "Inductor Óptico Avanzado",
+          "Compatible con Sistemas Operativos Windows."
+        ],
+        "imgMain":"/img/productos/Mouses/EPICO_CYB_M505_MOUSE_GAMER_USB_7LEDS_3200DPI_CYBERTEL/main.jpg",
+        "imgs":[
+          "/img/productos/Mouses/EPICO_CYB_M505_MOUSE_GAMER_USB_7LEDS_3200DPI_CYBERTEL/main.jpg",
+          "/img/productos/Mouses/EPICO_CYB_M505_MOUSE_GAMER_USB_7LEDS_3200DPI_CYBERTEL/img2.jpg",
+          "/img/productos/Mouses/EPICO_CYB_M505_MOUSE_GAMER_USB_7LEDS_3200DPI_CYBERTEL/img1.jpg",
+          "/img/productos/Mouses/EPICO_CYB_M505_MOUSE_GAMER_USB_7LEDS_3200DPI_CYBERTEL/img3.jpg"
+        ]
+      },
+      {
+        "id":7,
+        "marca":"Cybertel",
+        "modelo":"EXXPERT WHITE CYB M502W",
+        "precio":0,
+        "descripcion":"MOUSE GAMER USB 7LEDS 6B 3200DPI",
+        "caracteristica":[
+          "Mouse Óptico Gamer.",
+          "DPI graduable Hasta 3200.",
+          "Conexión USB.",
+          "6 Botones de Función, Incluye Funciones de Avance y Retroceso.",
+          "Filtro Antielectromagnético Para Evitar Interferencia Electromagnética.",
+          "Iluminación LED.",
+          "Fácil Desplazamiento (Scroll).",
+          "Cable de Nylon Trenzado de 1.5 mts.",
+          "Compatible con Sistemas Operativos Windows."
+        ],
+        "imgMain":"/img/productos/Mouses/EXXPERT_WHITE_CYB_M502W_MOUSE_GAMER_USB_7LEDS_6B_3200DPI_CYBERTEL/main.jpg",
+        "imgs":[
+          "/img/productos/Mouses/EXXPERT_WHITE_CYB_M502W_MOUSE_GAMER_USB_7LEDS_6B_3200DPI_CYBERTEL/main.jpg",
+          "/img/productos/Mouses/EXXPERT_WHITE_CYB_M502W_MOUSE_GAMER_USB_7LEDS_6B_3200DPI_CYBERTEL/img1.jpg",
+          "/img/productos/Mouses/EXXPERT_WHITE_CYB_M502W_MOUSE_GAMER_USB_7LEDS_6B_3200DPI_CYBERTEL/img2.jpg",
+          "/img/productos/Mouses/EXXPERT_WHITE_CYB_M502W_MOUSE_GAMER_USB_7LEDS_6B_3200DPI_CYBERTEL/img3.jpg"
+        ]
+      },
+      {
+        "id":8,
+        "marca":"Cybertel",
+        "modelo":"KNIGHT CYB M509",
+        "precio":0,
+        "descripcion":"MOUSE GAMER USB 7LEDS 3200DPI",
+        "caracteristica":[
+          "Mouse Gamer Led de 6 Botones.",
+          "Ilumonación LED 7 Colores.",
+          "Scroll Retroiluminado.",
+          "DPI Graduable Hasta: 3200 DPI.",
+          "Filtro Antielectromagnetismo. ",
+          "Cable de Nylon Trenzado de 1.5 mts.",
+          "2 Botones de Avance y Retroceso.",
+          "Diseño Ergonómico.",
+          "Compatible con Sistemas Operativos Windows."
+        ],
+        "imgMain":"/img/productos/Mouses/KNIGHT_CYB_M509_MOUSE_GAMER_USB_7LEDS_3200DPI_CYBERTEL/main.jpg",
+        "imgs":[
+          "/img/productos/Mouses/KNIGHT_CYB_M509_MOUSE_GAMER_USB_7LEDS_3200DPI_CYBERTEL/main.jpg",
+          "/img/productos/Mouses/KNIGHT_CYB_M509_MOUSE_GAMER_USB_7LEDS_3200DPI_CYBERTEL/img1.jpg",
+          "/img/productos/Mouses/KNIGHT_CYB_M509_MOUSE_GAMER_USB_7LEDS_3200DPI_CYBERTEL/img2.jpg",
+          "/img/productos/Mouses/KNIGHT_CYB_M509_MOUSE_GAMER_USB_7LEDS_3200DPI_CYBERTEL/img3.jpg"
+        ]
+      },
+      {
+        "id":9,
+        "marca":"Cybertel",
+        "modelo":"ELEKTRON CYB M515",
+        "precio":0,
+        "descripcion":"MOUSE GAMER USB RGB 3200DPI",
+        "caracteristica":[
+          "Mouse Gamer RGB Look.",
+          "Sensibilidad Graduable Hasta 3200 DPI.",
+          "Conexión WIFI 2.4 GHZ",
+          "6 Botones de Función. ",
+          "Iluminación LED RGB Look. ",
+          "Fácil Desplazamiento (Scroll Iluminado).",
+          "Peso Extra Para Mayor Estabilidad.",
+          "Diseño Ergonómico",
+          "Cable de Nylon Trenzado de 1.5 m.",
+          "Compatible con Sistemas Operativos Windows."
+        ],
+        "imgMain":"/img/productos/Mouses/ELEKTRON_CYB_M515_MOUSE_GAMER_USB_RGB_3200DPI_CYBERTEL/main.jpg",
+        "imgs":[
+          "/img/productos/Mouses/ELEKTRON_CYB_M515_MOUSE_GAMER_USB_RGB_3200DPI_CYBERTEL/main.jpg",
+          "/img/productos/Mouses/ELEKTRON_CYB_M515_MOUSE_GAMER_USB_RGB_3200DPI_CYBERTEL/img1.jpg",
+          "/img/productos/Mouses/ELEKTRON_CYB_M515_MOUSE_GAMER_USB_RGB_3200DPI_CYBERTEL/img2.jpg"
+        ]
+      },
+      {
+        "id":10,
+        "marca":"Cybertel",
+        "modelo":"GRAVITY CYB M516",
+        "precio":0,
+        "descripcion":"MOUSE GAMER USB RGB 3200DPI",
+        "caracteristica":[
+          "Mouse Gamer RGB Look. ",
+          "Sensibilidad Graduable Hasta 3200 DPI.",
+          "Conexión USB",
+          "6 Botones de Función. ",
+          "Iluminación LED RGB Look",
+          "Fácil Desplazamiento (Scroll Iluminado).",
+          "Diseño Ergonómico: Para una Mayor Comodidad en sus Manos.",
+          "Compatible con Sistemas Operativos Windows."
+        ],
+        "imgMain":"/img/productos/Mouses/GRAVITY_CYB_M516_MOUSE_GAMER_USB_RGB_3200DPI_CYBERTEL/main.jpg",
+        "imgs":[
+          "/img/productos/Mouses/GRAVITY_CYB_M516_MOUSE_GAMER_USB_RGB_3200DPI_CYBERTEL/main.jpg",
+          "/img/productos/Mouses/GRAVITY_CYB_M516_MOUSE_GAMER_USB_RGB_3200DPI_CYBERTEL/img1.jpg",
+          "/img/productos/Mouses/GRAVITY_CYB_M516_MOUSE_GAMER_USB_RGB_3200DPI_CYBERTEL/img2.jpg",
+          "/img/productos/Mouses/GRAVITY_CYB_M516_MOUSE_GAMER_USB_RGB_3200DPI_CYBERTEL/img3.jpg"
+        ]
+      },
+      {
+        "id":11,
+        "marca":"",
+        "modelo":"",
+        "precio":0,
+        "descripcion":"",
+        "caracteristica":[],
+        "imgMain":"",
+        "imgs":[]
       }
     ]
   },
@@ -1078,35 +1343,320 @@
     "product":[
       {
         "id":1,
-        "marca":"HyperX",
-        "modelo":"HP 12FHD2200",
-        "precio":2500,
-        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":""
+        "marca":"Micronics",
+        "modelo":"PLATINUM DJ BLK/BLU MIC H701",
+        "precio":24.90,
+        "descripcion":"AURICULAR+MICROFONO",
+        "caracteristica":[
+          "Auricular Office",
+          "Sonido Estero Envolvente de Alta Calidad",
+          "Diámetro de Bocina: 40mm.",
+          "Diadema Ajustable que Otorga una Mayor Durabilidad.",
+          "Control de Volumen en Línea.",
+          "Conector Jack 3.5mm(P3).",
+          "Vincha Protectora de Cuero para Mayor Comodidad.",
+          "Almohadillas de Cuero Sintético (PU).",
+          "Orejeras Acolchadas.",
+          "Cable de Nylon Trenzado",
+          "Compatible con: PC, Laptop y Otros Equipos de Audio."
+        ],
+        "imgMain":"/img/productos/Auriculares/PLATINUM_DJ_BLKBLU_MIC_H701_AURICULAR_MICROFONO_MICRONICS/main.jpg",
+        "imgs":[
+          "/img/productos/Auriculares/PLATINUM_DJ_BLKBLU_MIC_H701_AURICULAR_MICROFONO_MICRONICS/main.jpg",
+          "/img/productos/Auriculares/PLATINUM_DJ_BLKBLU_MIC_H701_AURICULAR_MICROFONO_MICRONICS/img1.jpg",
+          "/img/productos/Auriculares/PLATINUM_DJ_BLKBLU_MIC_H701_AURICULAR_MICROFONO_MICRONICS/img2.jpg",
+          "/img/productos/Auriculares/PLATINUM_DJ_BLKBLU_MIC_H701_AURICULAR_MICROFONO_MICRONICS/img3.jpg"
+        ]
       },
       {
         "id":2,
-        "marca":"HP",
-        "modelo":"HP 12FHD2200",
-        "precio":2500,
-        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":""
+        "marca":"Micronics",
+        "modelo":"PLATINUM+ MIC H700S",
+        "precio":26.10,
+        "descripcion":"AURICULAR + MICROFONO CABLE NYLON",
+        "caracteristica":[
+          "Auricular Office",
+          "Sonido Estero Envolvente de Alta Calidad",
+          "Diámetro de Bocina: 40mm.",
+          "Diadema Ajustable que Otorga una Mayor Durabilidad.",
+          "Control de Volumen en Orejera.",
+          "Conector Jack 3.5mm(P3).",
+          "Micrófono Flexible.",
+          "Vincha Protectora de Cuero para Mayor Comodidad",
+          "Almohadillas de Cuero Sintético (PU).",
+          "Compatible con: PC, Laptop y Otros Equipos de Audio."
+        ],
+        "imgMain":"/img/productos/Auriculares/PLATINUM_MIC_H700S_AURICULAR_MICROFONO_CABLE_NYLON_MICRONICS/main.jpg",
+        "imgs":[
+          "/img/productos/Auriculares/PLATINUM_MIC_H700S_AURICULAR_MICROFONO_CABLE_NYLON_MICRONICS/main.jpg",
+          "/img/productos/Auriculares/PLATINUM_MIC_H700S_AURICULAR_MICROFONO_CABLE_NYLON_MICRONICS/img1.jpg",
+          "/img/productos/Auriculares/PLATINUM_MIC_H700S_AURICULAR_MICROFONO_CABLE_NYLON_MICRONICS/img2.jpg",
+          "/img/productos/Auriculares/PLATINUM_MIC_H700S_AURICULAR_MICROFONO_CABLE_NYLON_MICRONICS/img3.jpg"
+        ]
       },
       {
         "id":3,
-        "marca":"HP",
-        "modelo":"HP 12FHD2200",
-        "precio":2500,
-        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":""
+        "marca":"Micronics",
+        "modelo":"PLATINUM+ MIC H800M",
+        "precio":34.50,
+        "descripcion":"AURICULAR + MICROFONO USB CABLE NYLON",
+        "caracteristica":[
+          "Cuenta con control de volumen",
+          "Over-Ear",
+          "Cable de Nylon Trenzado",
+          "Conexión USB.",
+          "Micrófono de Acero"
+        ],
+        "imgMain":"/img/productos/Auriculares/PLATINUM_MIC_H800M_AURICULAR_MICROFONO_USB_CABLE_NYLON_MICRONICS/main.jfif",
+        "imgs":["/img/productos/Auriculares/PLATINUM_MIC_H800M_AURICULAR_MICROFONO_USB_CABLE_NYLON_MICRONICS/main.jfif"]
       },
       {
         "id":4,
-        "marca":"HP",
-        "modelo":"HP 12FHD2200",
-        "precio":2500,
-        "descripcion":"RAM 16 GB, SSD 1TB, Core I5",
-        "img":""
+        "marca":"Micronics",
+        "modelo":"PLATINUM+ MIC H800K",
+        "precio":34.50,
+        "descripcion":"AURICULAR + MICROFONO USB CABLE NYLON",
+        "caracteristica":[
+          "Cuenta con control de volumen",
+          "Over-Ear",
+          "Cable de Nylon Trenzado",
+          "Conexión USB.",
+          "Micrófono de Acero"
+        ],
+        "imgMain":"/img/productos/Auriculares/PLATINUM_MIC_H800M_AURICULAR_MICROFONO_USB_CABLE_NYLON_MICRONICS/main.jfif",
+        "imgs":["/img/productos/Auriculares/PLATINUM_MIC_H800M_AURICULAR_MICROFONO_USB_CABLE_NYLON_MICRONICS/main.jfif"]
+      },
+      {
+        "id":5,
+        "marca":"Cybertel",
+        "modelo":"CRACKED CYB HG500L",
+        "precio":47.90,
+        "descripcion":"AURICULAR GAMER USB LED C/MICRO",
+        "caracteristica":[
+          "Auricular Gamer Led - Conector P3+ P4",
+          "Sonido Estero Envolvente de Alta Calidad.",
+          "Diámetro de Bocina: 40mm.",
+          "Iluminación LED de Colores.",
+          "Diadema Ajustable.",
+          "Control de Volumen en Línea.",
+          "Conector USB para el Encendido de Luces.",
+          "Conector Jack 3.5mm P3 + P4.",
+          "Micrófono Rígido.",
+          "Vincha Protectora de Cuero Sintético para Mayor Comodidad.",
+          "Almohadillas de Cuero Sintético (PU).",
+          "Orejeras Acolchadas.",
+          "Cable de Nylon Trenzado de 2.20m.",
+          "Compatible con: PC, Laptop y Otros Equipos de Audio."
+        ],
+        "imgMain":"/img/productos/Auriculares/CRACKED_CYB_HG500L_AURICULAR_GAMER_USB_LED_CMICRO_CYBERTEL/main.jpg",
+        "imgs":[
+          "/img/productos/Auriculares/CRACKED_CYB_HG500L_AURICULAR_GAMER_USB_LED_CMICRO_CYBERTEL/main.jpg",
+          "/img/productos/Auriculares/CRACKED_CYB_HG500L_AURICULAR_GAMER_USB_LED_CMICRO_CYBERTEL/img1.jpg",
+          "/img/productos/Auriculares/CRACKED_CYB_HG500L_AURICULAR_GAMER_USB_LED_CMICRO_CYBERTEL/img2.jpg",
+          "/img/productos/Auriculares/CRACKED_CYB_HG500L_AURICULAR_GAMER_USB_LED_CMICRO_CYBERTEL/img3.jpg"
+        ]
+      },
+      {
+        "id":6,
+        "marca":"Cybertel",
+        "modelo":"EPICO CYB HG503U",
+        "precio":59.90,
+        "descripcion":"AURICULAR GAMER SOLO USB LED C/MICRO",
+        "caracteristica":[
+          "Auricular Gamer Rainbow Led - Conector P3+ P4",
+          "Sonido Estero Envolvente de Alta Calidad.",
+          "Diámetro de Bocina: 40mm.",
+          "Iluminación LED Rainbow.",
+          "Conector USB para el Encendido de Luces",
+          "Diadema Ajustable.",
+          "Control de Volumen en Orejera.",
+          "Conector USB.",
+          "Conector Jack 3.5mm(P3)/(P4).",
+          "Micrófono Flexible.",
+          "Vincha Protectora de Cuero Sintético para Mayor Comodidad.",
+          "Almohadillas de Cuero Sintético (PU).",
+          "Cable de Nylon Trenzado de 2.20m.",
+          "Compatible con: PC, Laptop y Otros Equipos de Audio."
+        ],
+        "imgMain":"/img/productos/Auriculares/EPICO_CYB_HG503U_AURICULAR_GAMER_SOLO_USB_LED_CMICRO_CYBERTEL/main.jpg",
+        "imgs":[
+          "/img/productos/Auriculares/EPICO_CYB_HG503U_AURICULAR_GAMER_SOLO_USB_LED_CMICRO_CYBERTEL/main.jpg",
+          "/img/productos/Auriculares/EPICO_CYB_HG503U_AURICULAR_GAMER_SOLO_USB_LED_CMICRO_CYBERTEL/img1.jpg",
+          "/img/productos/Auriculares/EPICO_CYB_HG503U_AURICULAR_GAMER_SOLO_USB_LED_CMICRO_CYBERTEL/img2.jpg",
+          "/img/productos/Auriculares/EPICO_CYB_HG503U_AURICULAR_GAMER_SOLO_USB_LED_CMICRO_CYBERTEL/img3.jpg"
+        ]
+      },
+      {
+        "id":7,
+        "marca":"Cybertel",
+        "modelo":"CHAMPION 5.1 CYB HG518U",
+        "precio":66,
+        "descripcion":"AURICULAR GAMER USB RWB C/MICRO",
+        "caracteristica":[
+          "Auricular Gamer Rainbow Led - USB 5.1",
+          "Sonido Estero Envolvente de Alta Calidad.",
+          "Diámetro de Bocina: 40mm.",
+          "Iluminación LED Rainbow.",
+          "Conector USB para el Encendido de Luces.",
+          "Diadema Ajustable Reforzada que Otorga una Mayor Durabilidad.",
+          "Conector USB.",
+          "Micrófono Flexible.",
+          "Membrana de Grafeno: Para un Sonido de Alta Definición.",
+          "Cable de Nylon Trenzado de 2.20m.",
+          "Compatible con: PC, Laptop y Otros Equipos de Audio."
+        ],
+        "imgMain":"/img/productos/Auriculares/CHAMPION 5.1_CYB_HG518U_AURICULAR_GAMER_USB_RWB_CMICRO_CYBERTEL/main.jpg",
+        "imgs":[
+          "/img/productos/Auriculares/CHAMPION 5.1_CYB_HG518U_AURICULAR_GAMER_USB_RWB_CMICRO_CYBERTEL/main.jpg",
+          "/img/productos/Auriculares/CHAMPION 5.1_CYB_HG518U_AURICULAR_GAMER_USB_RWB_CMICRO_CYBERTEL/img1.jpg",
+          "/img/productos/Auriculares/CHAMPION 5.1_CYB_HG518U_AURICULAR_GAMER_USB_RWB_CMICRO_CYBERTEL/img2.jpg",
+          "/img/productos/Auriculares/CHAMPION 5.1_CYB_HG518U_AURICULAR_GAMER_USB_RWB_CMICRO_CYBERTEL/img3.jpg"
+        ]
+      },
+      {
+        "id":8,
+        "marca":"Micronics",
+        "modelo":"SCORPIO MIC HG813 P4",
+        "precio":0,
+        "descripcion":"AURICULAR GAMER LED C/MICRO VIBRADOR",
+        "caracteristica":[
+          "Auricular Gamer Machine LED - Conector P3 + P4 - Vibración",
+          "Sonido Estero Envolvente de Alta Calidad",
+          "Diámetro de Bocina: 40mm.",
+          "Iluminación LED Rojo",
+          "Diadema Ajustable que Otorga una Mayor Durabilidad.",
+          "Control de Volumen en Orejera.",
+          "Conector USB para el Encendido de Luces.",
+          "Conector Jack 3.5mm (P3) + Adaptador (P4).",
+          "Membrana de Grafeno: Para un Sonido de Alta Definición.",
+          "Cable de Nylon Trenzado.",
+          "Compatible con: PC, Laptop y Otros Equipos de Audio."
+        ],
+        "imgMain":"/img/productos/Auriculares/SCORPIO_MIC_HG813_P4_AURICULAR_GAMER_LED_CMICRO_VIBRADOR_MICRONICS/main.jpg",
+        "imgs":[
+          "/img/productos/Auriculares/SCORPIO_MIC_HG813_P4_AURICULAR_GAMER_LED_CMICRO_VIBRADOR_MICRONICS/main.jpg",
+          "/img/productos/Auriculares/SCORPIO_MIC_HG813_P4_AURICULAR_GAMER_LED_CMICRO_VIBRADOR_MICRONICS/img1.jpg",
+          "/img/productos/Auriculares/SCORPIO_MIC_HG813_P4_AURICULAR_GAMER_LED_CMICRO_VIBRADOR_MICRONICS/img2.jpg",
+          "/img/productos/Auriculares/SCORPIO_MIC_HG813_P4_AURICULAR_GAMER_LED_CMICRO_VIBRADOR_MICRONICS/img3.jpg"
+        ]
+      },
+      {
+        "id":9,
+        "marca":"Micronics",
+        "modelo":"LUDICO MIC HG801P4",
+        "precio":0,
+        "descripcion":"AURICULAR GAMER LED C/MICRO VIBRADOR USB",
+        "caracteristica":[
+          "Auricular Gamer Machine LED - Conector P4 + P3 - Vibración",
+          "Sonido Estero Envolvente de Alta Calidad",
+          "Iluminación Blue LED.",
+          "Diadema Ajustable que Otorga una Mayor Durabilidad.",
+          "Control de Volumen en Orejera.",
+          "Conector USB para el Encendido de Luces.",
+          "Conector Jack 3.5mm (P4) + Adaptador (P3).",
+          "Vincha Protectora de Cuero para Mayor Comodidad.",
+          "Orejeras Acolchadas.",
+          "Cable de Nylon Trenzado.",
+          "Compatible con: PC, Laptop, Smatphone y Otros Equipos de Audio."
+        ],
+        "imgMain":"/img/productos/Auriculares/LUDICO_MIC_HG801P4_AURICULAR_GAMER_LED_CMICRO_VIBRADOR_USB_MICRONICS/main.jpg",
+        "imgs":[
+          "/img/productos/Auriculares/LUDICO_MIC_HG801P4_AURICULAR_GAMER_LED_CMICRO_VIBRADOR_USB_MICRONICS/main.jpg",
+          "/img/productos/Auriculares/LUDICO_MIC_HG801P4_AURICULAR_GAMER_LED_CMICRO_VIBRADOR_USB_MICRONICS/img1.jpg",
+          "/img/productos/Auriculares/LUDICO_MIC_HG801P4_AURICULAR_GAMER_LED_CMICRO_VIBRADOR_USB_MICRONICS/img2.jpg",
+          "/img/productos/Auriculares/LUDICO_MIC_HG801P4_AURICULAR_GAMER_LED_CMICRO_VIBRADOR_USB_MICRONICS/img3.jpg"
+        ]
+      },
+      {
+        "id":10,
+        "marca":"Micronics",
+        "modelo":"SCORPIO MIC HG813",
+        "precio":0,
+        "descripcion":"AURICULAR GAMER LED C/MICRO VIBRADOR",
+        "caracteristica":[
+          "Auricular Gamer Machine LED - Conector P3 + P4 - Vibración",
+          "Sonido Estero Envolvente de Alta Calidad",
+          "Diámetro de Bocina: 40mm.",
+          "Iluminación LED Rojo",
+          "Diadema Ajustable que Otorga una Mayor Durabilidad.",
+          "Control de Volumen en Orejera.",
+          "Conector USB para el Encendido de Luces.",
+          "Conector Jack 3.5mm (P3) + Adaptador (P4).",
+          "Membrana de Grafeno: Para un Sonido de Alta Definición.",
+          "Cable de Nylon Trenzado.",
+          "Compatible con: PC, Laptop y Otros Equipos de Audio."
+        ],
+        "imgMain":"/img/productos/Auriculares/SCORPIO_MIC_HG813_AURICULAR_GAMER_LED_CMICRO_VIBRADOR_MICRONICS/main.jpg",
+        "imgs":[
+          "/img/productos/Auriculares/SCORPIO_MIC_HG813_AURICULAR_GAMER_LED_CMICRO_VIBRADOR_MICRONICS/main.jpg",
+          "/img/productos/Auriculares/SCORPIO_MIC_HG813_AURICULAR_GAMER_LED_CMICRO_VIBRADOR_MICRONICS/img1.jpg",
+          "/img/productos/Auriculares/SCORPIO_MIC_HG813_AURICULAR_GAMER_LED_CMICRO_VIBRADOR_MICRONICS/img2.jpg",
+          "/img/productos/Auriculares/SCORPIO_MIC_HG813_AURICULAR_GAMER_LED_CMICRO_VIBRADOR_MICRONICS/img3.jpg"
+        ]
+      },
+      {
+        "id":11,
+        "marca":"Micronics",
+        "modelo":"THERODACTIL MIC HG800V",
+        "precio":0,
+        "descripcion":"AURICULAR GAMER LED C/MICRO VIBRATOR USB ",
+        "caracteristica":[
+          "Auricular Gamer Machine LED - Conector P3 + P4 - Vibración",
+          "Sonido Estero Envolvente de Alta Calidad",
+          "Diámetro de Bocina: 40mm.",
+          "Diadema Ajustable que Otorga una Mayor Durabilidad.",
+          "Control de Volumen en Línea.",
+          "Control de Vibración en Línea.",
+          "Conector USB para el Encendido de Luces.",
+          "Conector Jack 3.5mm (P3) + Adaptador (P4).",
+          "Micrófono Plegable.",
+          "Vincha Protectora de Cuero para Mayor Comodidad.",
+          "Compatible con: PC, Laptop, Smatphone y Otros Equipos de Audio."
+        ],
+        "imgMain":"/img/productos/Auriculares/THERODACTIL_MIC_HG800V_AURICULAR_GAMER_LED_CMICRO_VIBRATOR_USB_MICRONICS/main.jpg",
+        "imgs":[
+          "/img/productos/Auriculares/THERODACTIL_MIC_HG800V_AURICULAR_GAMER_LED_CMICRO_VIBRATOR_USB_MICRONICS/main.jpg",
+          "/img/productos/Auriculares/THERODACTIL_MIC_HG800V_AURICULAR_GAMER_LED_CMICRO_VIBRATOR_USB_MICRONICS/img1.jpg",
+          "/img/productos/Auriculares/THERODACTIL_MIC_HG800V_AURICULAR_GAMER_LED_CMICRO_VIBRATOR_USB_MICRONICS/img2.jpg",
+          "/img/productos/Auriculares/THERODACTIL_MIC_HG800V_AURICULAR_GAMER_LED_CMICRO_VIBRATOR_USB_MICRONICS/img3.jpg"
+        ]
+      },
+      {
+        "id":12,
+        "marca":"Micronics",
+        "modelo":"SCORPIO MIC HG813 P4",
+        "precio":0,
+        "descripcion":"AURICULAR GAMER LED C/MICRO VIBRADOR",
+        "caracteristica":[],
+        "imgMain":"",
+        "imgs":[]
+      },
+      {
+        "id":13,
+        "marca":"Micronics",
+        "modelo":"SCORPIO MIC HG813 P4",
+        "precio":0,
+        "descripcion":"AURICULAR GAMER LED C/MICRO VIBRADOR",
+        "caracteristica":[],
+        "imgMain":"",
+        "imgs":[]
+      }
+    ]
+  },
+  { 
+    "id":5,
+    "categoria":"Gabinetes",
+    "img":"/img/products/laptop1.png",
+    "product":[
+      {
+        "id":13,
+        "marca":"Micronics",
+        "modelo":"SCORPIO MIC HG813 P4",
+        "precio":0,
+        "descripcion":"AURICULAR GAMER LED C/MICRO VIBRADOR",
+        "caracteristica":[],
+        "imgMain":"",
+        "imgs":[]
       }
     ]
   }
