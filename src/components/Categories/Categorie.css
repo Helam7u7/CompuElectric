@@ -23,6 +23,7 @@
   position: relative;
   display: flex;
   justify-content: center;
+  border-radius: 1rem;
 }
 
 .categories__img .imgL{

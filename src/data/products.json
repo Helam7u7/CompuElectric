@@ -55,43 +55,303 @@
       },
       {
         "id":3,
-        "marca":"",
-        "modelo":"",
+        "marca":"Maxtron",
+        "modelo":"TEACHER MX400 BTZ",
         "precio":0,
-        "descripcion":"",
-        "caracteristica":[],
-        "imgMain":"",
-        "imgs":[]
+        "descripcion":"SISTEMA DE AUDIO PORTABLE CON ALTAVO",
+        "caracteristica":[
+          "Hand Bluetooth Speaker",
+          "Bocina de 3”.",
+          "Conexíon BT: Estable de Largo Alcance. ",
+          "Batería Interna Recargable de Litio.",
+          "Pantalla LED y Botones de Control.",
+          "Lector de Memorias USB / Micro SD.",
+          "Sintonizador de Radio FM con Antena.",
+          "Entradas Disponibles Para Micrófono y Audifonos.",
+          "Perilla control de volumen.",
+          "Perillas de Ecualizador: Bajos y Agudos.",
+          "Perilla Volumen del  Microfono"
+        ],
+        "imgMain":"/img/productos/Parlantes/TEACHER_MX400_BT_SISTEMA_DE_AUDIO_PORTABLE_CON_ALTAVOZ_MAXTRON/main.webp",
+        "imgs":[
+          "/img/productos/Parlantes/TEACHER_MX400_BT_SISTEMA_DE_AUDIO_PORTABLE_CON_ALTAVOZ_MAXTRON/main.webp",
+          "/img/productos/Parlantes/TEACHER_MX400_BT_SISTEMA_DE_AUDIO_PORTABLE_CON_ALTAVOZ_MAXTRON/img1.webp",
+          "/img/productos/Parlantes/TEACHER_MX400_BT_SISTEMA_DE_AUDIO_PORTABLE_CON_ALTAVOZ_MAXTRON/img2.webp",
+          "/img/productos/Parlantes/TEACHER_MX400_BT_SISTEMA_DE_AUDIO_PORTABLE_CON_ALTAVOZ_MAXTRON/img3.webp"
+        ]
       },
       {
         "id":4,
-        "marca":"",
-        "modelo":"",
+        "marca":"Maxtron",
+        "modelo":"MISTIQUE MX216BT",
         "precio":0,
-        "descripcion":"",
-        "caracteristica":[],
-        "imgMain":"",
-        "imgs":[]
+        "descripcion":"SISTEMA DE AUDIO PORTATIL LED BT FM mSDUSB LI-BAT 3.7V1800mAh",
+        "caracteristica":[
+          "Table Bluetooth Speaker.",
+          "2 Bocinas de 3",
+          "Conexión BT: Estable de Largo Alcance. ",
+          "Función TWS: Permite Emparejar 2 Dispositivos BT (Sonido Envolvente).",
+          "luminación LED.",
+          "Batería Interna Recargable de Litio.",
+          "Pantalla LED y Botones de Control.",
+          "Lector de Memorias USB / Micro SD.",
+          "Sintonizador de Radio FM.",
+          "Conexión de Carga: Micro USB 5V"
+        ],
+        "imgMain":"/img/productos/Parlantes/MISTIQUE_MX216BT_SISTEMA_DE_AUDIO_PORTATILLED_BT_FM_mSDUSB_LI-BAT_3.7V1800mAh/main.webp",
+        "imgs":[
+          "/img/productos/Parlantes/MISTIQUE_MX216BT_SISTEMA_DE_AUDIO_PORTATILLED_BT_FM_mSDUSB_LI-BAT_3.7V1800mAh/main.webp",
+          "/img/productos/Parlantes/MISTIQUE_MX216BT_SISTEMA_DE_AUDIO_PORTATILLED_BT_FM_mSDUSB_LI-BAT_3.7V1800mAh/img1.webp",
+          "/img/productos/Parlantes/MISTIQUE_MX216BT_SISTEMA_DE_AUDIO_PORTATILLED_BT_FM_mSDUSB_LI-BAT_3.7V1800mAh/img2.webp"
+        ]
       },
       {
         "id":5,
-        "marca":"",
-        "modelo":"",
+        "marca":"Maxtron",
+        "modelo":"LIBIDUM 8' MX321VB",
         "precio":0,
-        "descripcion":"",
-        "caracteristica":[],
-        "imgMain":"",
-        "imgs":[]
+        "descripcion":"SISTEMA DE AUDIO PORTATIL TW LED BT MIC VHF mSD/USB ACID-BAT 12V/2600mAh",
+        "caracteristica":[
+          "Portable Bluetooth Speaker 8",
+          "Bocina de 8” + Tweeter.",
+          "Conexión BT: Estable de Largo Alcance. ",
+          "Iluminación Blue LED.",
+          "Batería Interna Recargable de Ácido.",
+          "Pantalla LED y Botones de Control.",
+          "Lector de Memorias USB / Micro SD.",
+          "Sintonizador de Radio FM.",
+          "Conexión de Carga:  Entrada DC 12V.",
+          "Entrada de Jack 6.35 mm para Micrófono/Guitarra.",
+          "Perillas de Ecualizador: Bajos y Agudos.",
+          "Perilla Volumen del Micrófono.",
+          "Perilla para Aumentar y Disminuir Eco del Micrófono"
+        ],
+        "imgMain":"/img/productos/Parlantes/LIBIDUM_8_MX321VB_SISTEMA_DE_AUDIO_PORTATIL_TW_LED_BT_MIC_VHF_mSDUSB_ACID_BAT_12V2600mAh/main.webp",
+        "imgs":[
+          "/img/productos/Parlantes/LIBIDUM_8_MX321VB_SISTEMA_DE_AUDIO_PORTATIL_TW_LED_BT_MIC_VHF_mSDUSB_ACID_BAT_12V2600mAh/main.webp",
+          "/img/productos/Parlantes/LIBIDUM_8_MX321VB_SISTEMA_DE_AUDIO_PORTATIL_TW_LED_BT_MIC_VHF_mSDUSB_ACID_BAT_12V2600mAh/img1.webp",
+          "/img/productos/Parlantes/LIBIDUM_8_MX321VB_SISTEMA_DE_AUDIO_PORTATIL_TW_LED_BT_MIC_VHF_mSDUSB_ACID_BAT_12V2600mAh/img2.webp",
+          "/img/productos/Parlantes/LIBIDUM_8_MX321VB_SISTEMA_DE_AUDIO_PORTATIL_TW_LED_BT_MIC_VHF_mSDUSB_ACID_BAT_12V2600mAh/img3.webp"
+        ]
       },
       {
         "id":6,
-        "marca":"",
-        "modelo":"",
+        "marca":"Maxtron",
+        "modelo":"LIBIDUM AC 8 MX323AC",
         "precio":0,
-        "descripcion":"",
-        "caracteristica":[],
-        "imgMain":"",
-        "imgs":[]
+        "descripcion":"SISTEMA DE AUDIO PORTATIL TW LED BT MIC VHF mSD/USB ACID-BAT",
+        "caracteristica":[
+          "Portable Bluetooth Speaker 8'.",
+          "Bocina de 8'+ Tweeter",
+          "Conexión BT: Estable de Largo Alcance.",
+          "Iluminación LED.",
+          "Batería Interna Recargable de Acido.",
+          "Pantalla LED y Botones de Control.",
+          "Lector de Memorias USB / Micro SD.",
+          "Sintonizador de Radio FM.",
+          "Conexión de Carga: Entrada C7 (Tipo 8) AC 220V",
+          "Entrada RCA para Fuentes Externas de Audio."
+        ],
+        "imgMain":"/img/productos/Parlantes/LIBIDUM_AC_8_MX323AC_SISTEMA_DE_AUDIO_PORTATIL_TW_LED_BT_MIC_VHF_mSDUSB_ACID-BAT/main.avif",
+        "imgs":[
+          "/img/productos/Parlantes/LIBIDUM_AC_8_MX323AC_SISTEMA_DE_AUDIO_PORTATIL_TW_LED_BT_MIC_VHF_mSDUSB_ACID-BAT/main.avif",
+          "/img/productos/Parlantes/LIBIDUM_AC_8_MX323AC_SISTEMA_DE_AUDIO_PORTATIL_TW_LED_BT_MIC_VHF_mSDUSB_ACID-BAT/img1.avif",
+          "/img/productos/Parlantes/LIBIDUM_AC_8_MX323AC_SISTEMA_DE_AUDIO_PORTATIL_TW_LED_BT_MIC_VHF_mSDUSB_ACID-BAT/img2.avif"
+        ]
+      },
+      {
+        "id":7,
+        "marca":"Maxtron",
+        "modelo":"ODYSSEY MX603AC TOWER",
+        "precio":0,
+        "descripcion":"SOUND SYSTEM TW RGB BT MIC FM mSD/USB LI-BAT",
+        "caracteristica":[
+          "Tower Bluetooth Speaker 6.5' x 2.",
+          "2 Bocina de 6.5”+ Tweeter.",
+          "Batería Interna Recargable de Litio.",
+          "Pantalla LED y Botones de Control.",
+          "Boton Control de Luces LED",
+          "Entrada Auxiliar Jack 3.5 mm para Fuentes Externas de Audio.",
+          "Perilla Volumen del Micrófono."
+        ],
+        "imgMain":"/img/productos/Parlantes/ODYSSEY_MX603AC_TOWER_SOUND_SYSTEM_TW_RGB_BT_MIC/main.webp",
+        "imgs":["/img/productos/Parlantes/ODYSSEY_MX603AC_TOWER_SOUND_SYSTEM_TW_RGB_BT_MIC/main.webp"]
+      },
+      {
+        "id":8,
+        "marca":"Maxtron",
+        "modelo":"FASSANO MX602B",
+        "precio":0,
+        "descripcion":"TOWER SOUND SYSTEM TW RGB DISK BT MIC FM mSDUSB LI-BAT",
+        "caracteristica":[
+          "Tower Bluetooth Speaker 6.5' x 2.",
+          "Conexíon BT: Estable de Largo Alcance. ",
+          "Función TWS: Permite Emparejar 2 Dispositivos BT (Sonido Envolvente).",
+          "Iluminación LED RGB Flaming.",
+          "Batería Interna Recargable de Litio.",
+          "Pantalla LED y Botones de Control.",
+          "Botón Control de Luces LED.",
+          "Lector de Memorias USB / Micro SD.",
+          "Sintonizador de Radio FM.",
+          "Conexión de Carga:  Entrada AC 220V.",
+          "Conexión de Carga:  Entrada DC 9V.",
+          "Botón MIC Priority : Función Micrófono Animadores",
+          "Botón REC Play : Función para Grabar Canciones y Audio a USB."
+        ],
+        "imgMain":"/img/productos/Parlantes/FASSANO_MX602B_TOWER_SOUND_SYSTEM_TW_RGB_DISK_BT_MIC_FM_mSDUSB_LI-BAT/main.webp",
+        "imgs":[
+          "/img/productos/Parlantes/FASSANO_MX602B_TOWER_SOUND_SYSTEM_TW_RGB_DISK_BT_MIC_FM_mSDUSB_LI-BAT/main.webp",
+          "/img/productos/Parlantes/FASSANO_MX602B_TOWER_SOUND_SYSTEM_TW_RGB_DISK_BT_MIC_FM_mSDUSB_LI-BAT/img1.webp",
+          "/img/productos/Parlantes/FASSANO_MX602B_TOWER_SOUND_SYSTEM_TW_RGB_DISK_BT_MIC_FM_mSDUSB_LI-BAT/img2.webp",
+          "/img/productos/Parlantes/FASSANO_MX602B_TOWER_SOUND_SYSTEM_TW_RGB_DISK_BT_MIC_FM_mSDUSB_LI-BAT/img3.webp"
+        ]
+      },
+      {
+        "id":9,
+        "marca":"Maxtron",
+        "modelo":"PARADIS MX601B",
+        "precio":0,
+        "descripcion":"TOWER SOUND SYSTEM TW RGB DISK BT MIC FM mSDUSB LI-BAT",
+        "caracteristica":[
+          "Tower Bluetooth Speaker 6.5' x 2.",
+          "2 Bocinas de 6.5” + Tweeter.",
+          "Conexión BT: Estable de Largo Alcance. ",
+          "Función TWS: Permite Emparejar 2 Dispositivos BT (Sonido Envolvente).",
+          "Iluminación LED RGB Flaming.",
+          "Batería Interna Recargable de Litio.",
+          "Pantalla LED y Botones de Control.",
+          "Botón Control de Luces LED.",
+          "Lector de Memorias USB / Micro SD",
+          "Sintonizador de Radio FM.",
+          "Conexión de Carga:  Entrada AC 220V.",
+          "Botón MIC Priority : Función Micrófono Animadores.",
+          "Entrada DC 12V: Conexión Batería de Carro.",
+          "Perilla Control de Volumen."
+        ],
+        "imgMain":"/img/productos/Parlantes/PARADIS_MX601B_TOWER_SOUND_SYSTEM_TW_RGB_DISK_BT_MIC_FM_mSDUSB_LI-BAT/main.webp",
+        "imgs":[
+          "/img/productos/Parlantes/PARADIS_MX601B_TOWER_SOUND_SYSTEM_TW_RGB_DISK_BT_MIC_FM_mSDUSB_LI-BAT/main.webp",
+          "/img/productos/Parlantes/PARADIS_MX601B_TOWER_SOUND_SYSTEM_TW_RGB_DISK_BT_MIC_FM_mSDUSB_LI-BAT/img1.webp",
+          "/img/productos/Parlantes/PARADIS_MX601B_TOWER_SOUND_SYSTEM_TW_RGB_DISK_BT_MIC_FM_mSDUSB_LI-BAT/img2.webp",
+          "/img/productos/Parlantes/PARADIS_MX601B_TOWER_SOUND_SYSTEM_TW_RGB_DISK_BT_MIC_FM_mSDUSB_LI-BAT/img3.webp"
+        ]
+      },
+      {
+        "id":10,
+        "marca":"Maxtron",
+        "modelo":"COLLINS MX335V",
+        "precio":0,
+        "descripcion":"TOWER SOUND SYSTEM TW RGB FLAMING BT MIC FM mSD/USB LI-BAT",
+        "caracteristica":[
+          "2 Bocinas de 8” + Tweeter.",
+          "Conexión BT: Estable de Largo Alcance.",
+          "Iluminación LED RGB DISK. (opción para activar y desactivar)",
+          "Batería Interna Recargable de Litio: 11.1V..",
+          "Lector de Memorias USB / Micro SD",
+          "Perilla Para el Control de Volumen.",
+          " Pantalla LED y Botones de Control.",
+          "02 Entradas de 6.35mm Para Micrófono.",
+          "Conexión Auxiliar de 3.5mm : Para Fuentes Externas de Audio.",
+          "Compatible con: Smartphone, Tablet, Laptop PC, TV y Otros Equipos de Audio.",
+          "Incluye:",
+          "Micrófono Inalámbrico."
+        ],
+        "imgMain":"/img/productos/Parlantes/COLLINS_MX335V_TOWER_SOUND_SYSTEM_TW_RGB_FLAMING_BT_MIC_FM_mSDUSB_LI_BAT/main.jpg",
+        "imgs":[
+          "/img/productos/Parlantes/COLLINS_MX335V_TOWER_SOUND_SYSTEM_TW_RGB_FLAMING_BT_MIC_FM_mSDUSB_LI_BAT/main.jpg",
+          "/img/productos/Parlantes/COLLINS_MX335V_TOWER_SOUND_SYSTEM_TW_RGB_FLAMING_BT_MIC_FM_mSDUSB_LI_BAT/img1.avif",
+          "/img/productos/Parlantes/COLLINS_MX335V_TOWER_SOUND_SYSTEM_TW_RGB_FLAMING_BT_MIC_FM_mSDUSB_LI_BAT/img2.avif",
+          "/img/productos/Parlantes/COLLINS_MX335V_TOWER_SOUND_SYSTEM_TW_RGB_FLAMING_BT_MIC_FM_mSDUSB_LI_BAT/img3.avif"
+        ]
+      },
+      {
+        "id":11,
+        "marca":"Maxtron",
+        "modelo":"FASSANO 8 MX802B",
+        "precio":0,
+        "descripcion":"TOWER SOUND SYSTEM TW RGB DISK BT MIC FM mSDUSB LI-BAT",
+        "caracteristica":[
+          "Tower Bluetooth Speaker 8' x 2.",
+          "2 Bocinas de 8” + Tweeter.",
+          "Conexión BT: Estable de Largo Alcance. ",
+          "Función TWS: Permite Emparejar 2 Dispositivos BT (Sonido Envolvente).",
+          "Iluminación LED RGB Flaming.",
+          "Batería Interna Recargable de Litio.",
+          "Pantalla LED y Botones de Control.",
+          "Botón Control de Luces LED.",
+          "Sintonizador de Radio FM.",
+          "Conexión de Carga:  Entrada AC 220V.",
+          "Conexión Batería de Carro: Entrada DC 12V.",
+          "Entrada Auxiliar Jack 3.5 mm para Fuentes Externas de Audio.",
+          "Botón MIC Priority: Función Micrófono Animadores.",
+          "Botón REC Play : Función para Grabar Canciones y Audio a USB.",
+          "Perilla Control de Volumen."
+        ],
+        "imgMain":"/img/productos/Parlantes/FASSANO_MX602B_TOWER_SOUND_SYSTEM_TW_RGB_DISK_BT_MIC_FM_mSDUSB_LI-BAT/main.webp",
+        "imgs":[
+          "/img/productos/Parlantes/FASSANO_MX602B_TOWER_SOUND_SYSTEM_TW_RGB_DISK_BT_MIC_FM_mSDUSB_LI-BAT/main.webp",
+          "/img/productos/Parlantes/FASSANO_MX602B_TOWER_SOUND_SYSTEM_TW_RGB_DISK_BT_MIC_FM_mSDUSB_LI-BAT/img1.webp",
+          "/img/productos/Parlantes/FASSANO_MX602B_TOWER_SOUND_SYSTEM_TW_RGB_DISK_BT_MIC_FM_mSDUSB_LI-BAT/img2.webp",
+          "/img/productos/Parlantes/FASSANO_MX602B_TOWER_SOUND_SYSTEM_TW_RGB_DISK_BT_MIC_FM_mSDUSB_LI-BAT/img3.webp"
+        ]
+      },
+      {
+        "id":12,
+        "marca":"Maxtron",
+        "modelo":"AVALON 15 MX115-V ROLLER",
+        "precio":0,
+        "descripcion":"SOUND SYSTEM TW RGB BT 1VHF FM SDUSB ACID-BAT",
+        "caracteristica":[
+          "Roller Bluetooth Speaker 15",
+          "Bocina de 15 + Tweeter.",
+          "Conexión BT: Estable de Largo Alcance. ",
+          "Iluminación LED RGB.",
+          "Batería Interna Recargable de Ácido.",
+          "Pantalla LED y Botones de Control.",
+          "Botón de Luces LED.",
+          "Lector de Memorias USB / SD Card.",
+          "Sintonizador de Radio FM.",
+          "Conexión de Carga: Entrada AC 220V.",
+          "Entrada Jack de 6.35 mm para Micrófono.",
+          "Boton REC Play : Función para Grabar Canciones y Audio a USB.",
+          "Perilla Control de Volumen.",
+          "Perillas de Ecualizador: Bajos y Agudos."
+        ],
+        "imgMain":"/img/productos/Parlantes/AVALON_15_MX115_VROLLER_SOUND_SYSTEM_TW_RGB_BT_1VHF_FM_SDUSB_ACID-BAT/main.webp",
+        "imgs":[
+          "/img/productos/Parlantes/AVALON_15_MX115_VROLLER_SOUND_SYSTEM_TW_RGB_BT_1VHF_FM_SDUSB_ACID-BAT/main.webp",
+          "/img/productos/Parlantes/AVALON_15_MX115_VROLLER_SOUND_SYSTEM_TW_RGB_BT_1VHF_FM_SDUSB_ACID-BAT/img1.webp",
+          "/img/productos/Parlantes/AVALON_15_MX115_VROLLER_SOUND_SYSTEM_TW_RGB_BT_1VHF_FM_SDUSB_ACID-BAT/img2.webp",
+          "/img/productos/Parlantes/AVALON_15_MX115_VROLLER_SOUND_SYSTEM_TW_RGB_BT_1VHF_FM_SDUSB_ACID-BAT/img3.webp"
+        ]
+      },
+      {
+        "id":13,
+        "marca":"Maxtron",
+        "modelo":"MAXTRON MERKURY 15 MX156 U1 PROFESSIONAL",
+        "precio":0,
+        "descripcion":"SYSTEM TW LED BT 1UHF FM SDUSB ACID-BAT",
+        "caracteristica":[
+          "Professional Bluetooth Speaker 15",
+          "Bocina de 15” + Tweeter.",
+          "Función TWS: Permite Emparejar 2 Dispositivos BT (Sonido Envolvente).",
+          "Switch Control de Luces LED.",
+          "Entrada Dual Cannon (XLR y jack 6.35mm) para Guitarra.",
+          "Botón MIC Priority: Función Micrófono Animadores",
+          "Perilla control de volumen.",
+          "Perillas de Ecualizador: Bajos y Agudos.",
+          "Perilla Volumen del Micrófono.",
+          "Perilla Aumentar y Disminuir Eco del Microfono.",
+          "Perilla Volumen del Guitarra.",
+          "Perilla Volumen del MP3."
+        ],
+        "imgMain":"/img/productos/Parlantes/MAXTRON_MERKURY_15_MX156_U1_PROFESSIONAL_SYSTEM_TW_LED_BT_1UHF_FM_SDUSB_ACID-BAT/main.jpg",
+        "imgs":[
+          "/img/productos/Parlantes/MAXTRON_MERKURY_15_MX156_U1_PROFESSIONAL_SYSTEM_TW_LED_BT_1UHF_FM_SDUSB_ACID-BAT/main.jpg",
+          "/img/productos/Parlantes/MAXTRON_MERKURY_15_MX156_U1_PROFESSIONAL_SYSTEM_TW_LED_BT_1UHF_FM_SDUSB_ACID-BAT/img1.jpg",
+          "/img/productos/Parlantes/MAXTRON_MERKURY_15_MX156_U1_PROFESSIONAL_SYSTEM_TW_LED_BT_1UHF_FM_SDUSB_ACID-BAT/img2.jpg",
+          "/img/productos/Parlantes/MAXTRON_MERKURY_15_MX156_U1_PROFESSIONAL_SYSTEM_TW_LED_BT_1UHF_FM_SDUSB_ACID-BAT/img3.jpg"
+        ]
       }
     ]
   },
